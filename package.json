@@ -1,0 +1,25 @@
+{
+  "name": "@vitalygpt/mcp",
+  "version": "0.1.0",
+  "description": "UX insights from Vitaly Friedman, served as an MCP tool for LLMs",
+  "main": "dist/index.js",
+  "bin": {
+    "vitalygpt-mcp": "dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "start": "node dist/index.js",
+    "import": "npx ts-node scripts/import-karakeep.ts"
+  },
+  "keywords": ["mcp", "ux", "design", "vitaly-friedman", "claude"],
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/node": "^20.0.0",
+    "ts-node": "^10.9.0"
+  }
+}
