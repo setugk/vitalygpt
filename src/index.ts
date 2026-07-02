@@ -9,6 +9,8 @@ import * as fs from "fs";
 import * as path from "path";
 
 const CONTENT_DIR = path.join(__dirname, "..", "content");
+const GITHUB_RAW = "https://raw.githubusercontent.com/setugk/vitalygpt/main/content";
+const hasLocalContent = fs.existsSync(path.join(CONTENT_DIR, "ai-and-tools.md"));
 
 interface Insight {
   topic: string;
@@ -28,30 +30,29 @@ const TOPIC_LABELS: Record<string, string> = {
   "ai-and-tools": "AI & Design Tools",
 };
 
-function loadInsights(): Insight[] {
+async function loadInsights(): Promise<Insight[]> {
   const insights: Insight[] = [];
 
   for (const [topicSlug, topicLabel] of Object.entries(TOPIC_LABELS)) {
-    const filePath = path.join(CONTENT_DIR, `${topicSlug}.md`);
-    if (!fs.existsSync(filePath)) continue;
+    let content: string;
 
-    const content = fs.readFileSync(filePath, "utf-8");
-    // Split on the "---" separators, skip the file header (first block)
+    if (hasLocalContent) {
+      const filePath = path.join(CONTENT_DIR, `${topicSlug}.md`);
+      if (!fs.existsSync(filePath)) continue;
+      content = fs.readFileSync(filePath, "utf-8");
+    } else {
+      const res = await fetch(`${GITHUB_RAW}/${topicSlug}.md`);
+      if (!res.ok) continue;
+      content = await res.text();
+    }
+
     const blocks = content.split(/\n---\n/).slice(1);
-
     for (const block of blocks) {
       const trimmed = block.trim();
       if (!trimmed) continue;
-
       const titleMatch = trimmed.match(/^##\s+(.+)/m);
       const title = titleMatch ? titleMatch[1].trim() : "(untitled)";
-
-      insights.push({
-        topic: topicSlug,
-        topicLabel,
-        title,
-        body: trimmed,
-      });
+      insights.push({ topic: topicSlug, topicLabel, title, body: trimmed });
     }
   }
 
@@ -66,8 +67,10 @@ function searchInsights(insights: Insight[], query: string): Insight[] {
   });
 }
 
+let insights: Insight[] = [];
+
 const server = new Server(
-  { name: "vitalygpt", version: "0.1.0" },
+  { name: "vitalygpt", version: "0.2.0" },
   { capabilities: { tools: {} } }
 );
 
@@ -120,7 +123,6 @@ server.setRequestHandler(ListToolsRequestSchema, async () => ({
 }));
 
 server.setRequestHandler(CallToolRequestSchema, async (request) => {
-  const insights = loadInsights();
   const { name, arguments: args } = request.params;
 
   if (name === "list_topics") {
@@ -205,6 +207,7 @@ server.setRequestHandler(CallToolRequestSchema, async (request) => {
 });
 
 async function main() {
+  insights = await loadInsights();
   const transport = new StdioServerTransport();
   await server.connect(transport);
 }
