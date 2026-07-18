@@ -1,0 +1,41 @@
+name: Sync Vitaly insights from Karakeep
+
+on:
+  schedule:
+    - cron: '0 13 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: vitaly-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build
+        run: npx tsc
+
+      - name: Configure git identity
+        run: |
+          git config user.name "vitalygpt-sync-bot"
+          git config user.email "actions@users.noreply.github.com"
+
+      - name: Run sync
+        env:
+          KARAKEEP_API_KEY: ${{ secrets.KARAKEEP_API_KEY }}
+        run: node dist/sync.js
