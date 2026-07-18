@@ -70,7 +70,7 @@ Design professionals often struggle to communicate the business value of their w
 
 🪴 Business Thinking For Designers (free eBooks, email required) (https://lnkd.in/e5qCg8fp), free practical guides to business for designers, with strategies to effectively communicate with stakeholders and techniques that you can put right to work — and design a winning design team strategy. Kindly written and shared by Ryan Rumsey from CDO School. Design is rarely the central part of a business. Just like many others, typically it’s a satellite that has a significant impact, but often that impact is very difficult to visualize — to defend and explain design decisions, prove their impact and connect design initiatives with a business value. Personally, I never argue about the role of design and UX. Instead, I try to visualize design work as enabler of business objectives that senior management aims for. That requires us to speak the language of management and understand how to argue about design through the lens of business. You don’t need an MBA for that though — we just need to better understand the business side, what stakeholders truly care about and how UX fits into the bigger picture of the entire organization. Additional resources: Business Guides for Designers, by Alen Faljic, Franz Emprechtinger, Klara Faljic, Mersi Silec, Maja Zilnik
 https://d.mba/guides/ What Actually Happens in Board Rooms, by Reid Hoffman
-https://lnkd.in/e5mXtYtd How To Manage Challenging Stakeholders Without Authority (free eBook)
+https://coda.io/@reidhoffman/rituals-of-great-boards How To Manage Challenging Stakeholders Without Authority (free eBook)
 https://lnkd.in/e6RY6dQB How to Boost UX in a Company With Low UX Maturity, by yours truly
 https://lnkd.in/eeRKiXDk How To Defend Your Design Decisions, by yours truly
 https://lnkd.in/eeKjeDTS First 90 Days Plan For Designers, by yours truly
@@ -149,7 +149,7 @@ Vitaly Friedman shares resources to help designers understand business fundament
 🪴 Business Thinking For Designers (free eBooks, email required) (https://lnkd.in/e5qCg8fp), free practical guides to business for designers, with strategies to effectively communicate with stakeholders and techniques that you can put right to work — and design a winning design team strategy. Kindly written and shared by Ryan Rumsey from CDO School. Design is rarely the central part of a business. Just like many others, typically it’s a satellite that has a significant impact, but often that impact is very difficult to visualize — to defend and explain design decisions, prove their impact and connect design initiatives with a business value. Personally, I never argue about the role of design and UX. Instead, I try to visualize design work as enabler of business objectives that senior management aims for. That requires us to speak the language of management and understand how to argue about design through the lens of business. You don’t need an MBA for that though — we just need to better understand the business side, what stakeholders truly care about and how UX fits into the bigger picture of the entire organization. Additional resources: 🧭 The Strategic Product Designer (Notion hub)
 https://lnkd.in/eCf_t2d9 Business Guides for Designers, by Alen Faljic, Franz Emprechtinger, Klara Faljic, Mersi Silec, Maja Zilnik
 https://d.mba/guides/ What Actually Happens in Board Rooms, by Reid Hoffman
-https://lnkd.in/e5mXtYtd How To Manage Challenging Stakeholders Without Authority (free eBook)
+https://coda.io/@reidhoffman/rituals-of-great-boards How To Manage Challenging Stakeholders Without Authority (free eBook)
 https://lnkd.in/e6RY6dQB How to Boost UX in a Company With Low UX Maturity, by yours truly
 https://lnkd.in/eeRKiXDk How To Defend Your Design Decisions, by yours truly
 https://lnkd.in/eFKrj_Qr First 90 Days Plan For Designers, by yours truly
@@ -162,3 +162,25 @@ https://lnkd.in/eswDmnan --- Printed books on business for designers that I can 
 
 **Source:** [LinkedIn](https://www.linkedin.com/posts/vitalyfriedman_ux-books-share-7392135634922147840-92BY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAedtLEBej9lid5LHaT1t_HU5bsQdM5QCJ0) · Vitaly Friedman · 2026-06-15
 **Tags:** Business thinking, Vitaly, business-strategy, ux-design, design-management, stakeholder-communication
+
+---
+
+## How To Map Unintended Consequences of UX Decisions, with practical techniques to visualize, map and start planning for unintended…
+
+✂️ How To Map Unintended Consequences of UX Decisions (https://lnkd.in/dprq_aGc), with practical techniques to visualize, map and start planning for unintended consequences of design decisions — with systems thinking, impact ripples, iceberg visuals and feedback loops. By Martin Tomitsch and Steve Baty. 🤔 Not every design outcome is predictable and linear.
+✅ Small changes can set large ripple effects in motion.
+✅ Users don’t act in isolation; they react to feedback loops.
+✅ Immediate metrics (e.g. clicks) often mask long-term impact.
+🚫 We often focus on UX flows → but overlook causality, ripples. ✅ Systems Maps visualize relationships and consequences.
+✅ We study direct and indirect effects of a suggested change.
+✅ Quadrant Matrix → We map changes on Impact vs. Repetition.
+✅ Impact Ripple → Direct impact, Indirect Impact, Big Picture.
+✅ Iceberg Model → Events, Patterns, Structures, Mental Model. No design decision exists in isolation. Often we try to use linear user journey maps to understand how people use our product or go through specific flows. We measure the impact of A/B tests to see if we achieve a desired outcome and move the needle. We track conversion, clicks, engagement. In other words, we track metrics that often hide the complexities of user interactions and relationships between features and flows in our products. Complex systems often have conflicting loops — a feature that drives short-term retention might drive long-term churn or abandonment. Often these effects are delayed, invisible and appear to be highly unlikely at first. So before focusing on fine details of a feature, it’s always a good idea to sit down and explore direct and indirect impact of the changes — for different user profiles, and the different workflows that users apply daily. A great reminder that as designers we are often so focused on fine little details too early — mostly to outperform the competition in some way. But we often forget that our product must excel in user’s workflows with a few critical systems, dozens of other apps and hundreds of other tabs. --- ✤ Useful Resources and Books: Designing Tomorrow, by Martin Tomitsch, Steve Baty
+https://lnkd.in/dmXEZREr Thinking in Systems: A Primer, by Donella H. Meadows
+https://lnkd.in/dXbm5EEA Good Services: How to Design Services that Work, by Louise Downe
+https://lnkd.in/d5SigzvX The Great Mental Models, by Rhiannon Beaubien
+https://lnkd.in/dnT_GtDT Books Recommendations on Systems Thinking, by Natália Tôrres
+https://lnkd.in/dr-NZaqw #ux #design
+
+**Source:** [LinkedIn](https://www.linkedin.com/posts/vitalyfriedman_ux-design-share-7483041035233738752-F8V_/?utm_source=share&utm_medium=member_ios&rcm=ACoAAAedtLEBej9lid5LHaT1t_HU5bsQdM5QCJ0) · Vitaly Friedman · 2026-07-15
+**Tags:** user-experience, Systems thinking, product-design, ux-design

@@ -11,7 +11,7 @@ This resource compilation by Vitaly Friedman provides UX designers at all levels
 **Full post:**
 
 🌟 UX Job Boards and Job Search Strategies. Useful resources to get you in a good spot ahead of your job interviews — for senior and junior designers, repost for the new year ↓ Job Search Strategies and Templates (Notion), by Gabriela De Luca
-https://lnkd.in/eCx3ydC2 How To Ace Your Next Job Interview, by Marc Köhlbrugge
+https://blush-pixie-9dd.notion.site/For-Job-Seekers-675ba42e81504839877d027384679fa1 How To Ace Your Next Job Interview, by Marc Köhlbrugge
 https://lnkd.in/eMMasRgm How To Get Your Product Design Job
 https://askplaybook.com A Complete Guide For Getting A Job In Design, by Caio Abreu Braga
 https://lnkd.in/enpvwY9z A Guide To Successful UX Job Interviews, by 🐱 Catt Small 👩🏾‍💻
@@ -129,7 +129,7 @@ This post by Vitaly Friedman provides comprehensive UX job search resources for 
 **Full post:**
 
 🌟 Job Search Strategies and UX Job Boards. Useful resources to get you in a good spot ahead of your job interviews — for senior and junior designers, repost for the new year ↓ Job Search Strategies and Templates (Notion), by Gabriela De Luca
-https://lnkd.in/eCx3ydC2 How To Ace Your Next Job Interview, by Marc Köhlbrugge
+https://blush-pixie-9dd.notion.site/For-Job-Seekers-675ba42e81504839877d027384679fa1 How To Ace Your Next Job Interview, by Marc Köhlbrugge
 https://lnkd.in/eMMasRgm How To Get Your Product Design Job
 https://askplaybook.com A Complete Guide For Getting A Job In Design, by Caio Abreu Braga
 https://lnkd.in/enpvwY9z A Guide To Successful UX Job Interviews, by 🐱 Catt Small 👩🏾‍💻

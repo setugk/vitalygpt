@@ -201,3 +201,84 @@ https://lnkd.in/e9q3QMz9 And yet again, please support wonderful authors who put
 
 **Source:** [LinkedIn](https://www.linkedin.com/posts/vitalyfriedman_ux-design-research-activity-7157282217906356224-pCbc) · Vitaly Friedman · 2026-06-15
 **Tags:** Research, user-research, ux-research, design, Templates, resources
+
+---
+
+## How To Launch Big Changes Without Hurting Power Users.
+
+🎢 How To Launch Big Changes Without Hurting Power Users. Practical guidelines to keep in mind before releasing a new feature ↓ 🚫 We often assume that people don’t like change.
+🤔 But people go through changes their entire lives.
+✅ People accept novelty if they understand/value it.
+✅ But: breaking changes disrupt habits and hurt efficiency.
+✅ Roll out features slowly, with multiple layers of testing. ✅ First, study where a new feature fits in key user journeys.
+✅ Research where different user types would find and apply it.
+✅ Consider levels of proficiency: from new users to experts.
+✅ Actively support existing flows, and keep them a default. 🚫 Assume low adoption rate: don’t make a feature mandatory. ✅ Test with internal employees and company-wide users.
+✅ Then, run a usability testing with real users and beta testers.
+✅ Then, test with users who manually opt in and run a split-test.
+✅ Allow users to try a new feature, roll back, dismiss, remind later.
+✅ Release slowly and gradually and track retention as you go. As designers, we often focus on how a new feature fits in the existing UI. Yet problems typically occur not because components don’t work visually, but rather when features are understood and applied in unexpected ways. Rather than zooming in too closely, zoom out repeatedly to see a broader scope. Be strategic when rolling out new versions. Especially in complex environments, we need to be rather cautious and slow, especially when operating on a core feature. That’s a strategy you could follow in such scenarios: 1. Seek and challenge assumptions.
+2. Define how you’ll measure success.
+3. Have a rollback strategy in place.
+4. Test with designers and developers.
+5. Test with internal company-wide users.
+6. Test with real users in a usability testing.
+7. Start releasing slowly and gradually.
+8. Test with beta testers (if applicable).
+9. Test with users who manually opt in.
+10. Test with a small segment of customers first.
+11. Split-test the change and track impact.
+12. Wait and track adoption and retention rates.
+13. Roll out a feature to more user segments.
+14. Run UX research to track usage patterns.
+15. Slowly replace deprecated flows with new ones. With a new feature, the most dangerous thing that can happen is that loyal, experienced users suddenly lose their hard-won efficiency. It might be caused by oversimplification, or mismatch of expectations, or — more often than not — because a feature has been designed with a small subset of users in mind. As we work on a shiny new thing, we often get blinded by our assumptions and expectations. What really helps me is to always wear a critical hat in each design crit. Relentlessly question everything. Everything! One wrong assumption is a goldmine of disastrous decisions waiting to be excavated. [Useful resources in the comments ↓] #ux #design
+
+**Source:** [LinkedIn](https://www.linkedin.com/posts/vitalyfriedman_ux-design-share-7483762925833207808-ggg6/?utm_source=share&utm_medium=member_ios&rcm=ACoAAAedtLEBej9lid5LHaT1t_HU5bsQdM5QCJ0) · Vitaly Friedman · 2026-07-17
+**Tags:** user-experience, product-management, ux-design, feature-rollout
+
+---
+
+## Reddit Answers, probably one of the most underrated tools to study what customers actually say, complain, value and get confused about for any product.
+
+Reddit Answers (https://lnkd.in/dcg4nDhX), probably one of the most underrated tools to study what customers actually say, complain, value and get confused about for any product. Just a little helpful free tool to mine all the opinions and views on Reddit — and ask for pain points, successful outcomes and specific threads. Via Shlomo Genchin. What I actually like most isn’t even the idea to mine what people say and think, but rather *how* they say it. In practice, businesses often see their products quite differently than how actual customers perceive and use it, so gaining insight into customer’s language and vocabulary about the product is very helpful — also to know how to speak customer’s language effectively. ✺ For UX researchers (domain discovery + pain points): – What frustrates and confuses people most about [product]?
+– What do first-time users of [product] often complain about?
+– How do people organize and run their daily workflows in [industry]?
+– What are most useful features customers discovered in [industry]? ✺ For UX writers (vocabulary, tone, language): – What words do people use when speaking about X?
+– How do customers name the feature that does X?
+– How do people explain what the feature X does?
+– How do people describe their daily workflows in M? ✺ Workarounds (unmet needs in disguise): – What workarounds do people often use with complex forms?
+– What tools do people in [role] in [industry] also use when using A?
+– What are the shortcuts people often take when running B?
+– What tools do people mention frequently to visualize C? ✺ Switching triggers (the moment of churn): – What made people finally leave X and search for competitors?
+– What’s the reason why people start thinking about cancelling Y?
+– When do people in M downgrade from paid to free tier?
+– At which point do people start searching for alternative products? ✺ Trust and decision-making (before committing): – How do people verify X recommendations before acting on them?
+– What are common doubts/concerns customers have when buying X?
+– What do people look for in product reviews before choosing a solution?
+– What do people find useful to compare the different products in X? ✺ Onboarding and broken expectations: – What surprised people in a bad way after signing up for X?
+– What did people expect X to do that it doesn’t do well?
+– What do people regret not knowing before buying X?
+– What are some of the strongest complaints about Y? One of the most helpful things is to look for hacks and workarounds people use. Typically, people don’t create inefficient duct-tape solution for problems they don’t care about, and typically it’s a strong indicator of the severity of the issue — that we might want to resolve soon. None of it, however, replaces actual UX research with humans. But being able to mine what people say at scale can be very helpful to craft messages that work — that are clear, easy to understand and speak the language that customers speak.
+
+**Source:** [LinkedIn](https://www.linkedin.com/posts/vitalyfriedman_reddit-answers-httpslnkdindcg4ndhx-share-7470762420437708800-631n/?utm_source=share&utm_medium=member_ios&rcm=ACoAAAedtLEBej9lid5LHaT1t_HU5bsQdM5QCJ0) · Vitaly Friedman · 2026-06-11
+**Tags:** user-experience, ux-research, customer-insights, product-feedback
+
+---
+
+## How To Estimate and Prioritize UX Work (Framework), a very practical guide on how to choose and estimate the right level of research and UX…
+
+🔮 How To Estimate and Prioritize UX Work (Framework) (https://lnkd.in/eGQrPm2N), a very practical guide on how to choose and estimate the right level of research and UX work needed for a successful outcome of a project — along with the process to follow and UX estimates to set. Kindly shared by Jeremy Bird 🇺🇸🇧🇷, and building on top of wonderful work by Jeanette Fuccella. 🤔 Planning is typically done for the delivery phase only.
+🤔 Design, research, discovery, ideation are not planned.
+🤔 Effort, estimates, roadmaps, capacity are rare for UX work.
+🚫 Not every project needs the same level of research/design.
+✅ Goal: set realistic expectations for UX work in a timeframe. Jeremy suggests to estimate research and design efforts separately, and across different dimensions: we assess research by mapping Risks and Problem Clarity. And we estimate design effort needed by mapping Risk and Level of Complexity: 🔮 Clarity: Low ↔ High
+New, unknown problems usually come with a lot of assumptions and very low clarity. Well-known problems with shared understanding in the team and some extensive research have higher degree of clarity. 🔥 Risk: Low ↔ High
+Some projects are relatively easy to roll back and they don’t really affect business-critical workflows (low risk). Others are much more difficult to reverse and operate within users’ key journeys (high risk). 🚀 Complexity: Low ↔ High
+Self-contained projects in well-understood workflows are typically straightforward (low complexity). Some projects that involve many systems, external dependencies, stakeholders scattered across teams with little existing knowledge (high complexity). ✅ We start by defining a problem to solve + business impact.
+✅ Then, we shape desired user outcome and success criteria.
+✅ Next, we assess design effort and research effort levels.
+✅ Run a kickoff meeting to prioritize and decide the scope.
+✅ Designers break down UX work, estimate it, add to Jira. Estimates are hard to get right. Even with 20–30% buffer, I’m often underestimating the little nuances, blockers, constraints, unknown unknowns and bottlenecks hidden somewhere between complex dependencies and unresponsive stakeholders. Considering risk early is a very, very effective way to guide UX work in the right direction. High risk always requires some level of research and discovery. And early prioritization helps UX teams focus their effort where they add most value. Finally: I can highly recommend to consider Effort vs. Value curves (https://lnkd.in/evrKJUEy) for prioritization work as well. Much of the work isn’t completed once it’s delivered. More often than not, it will significantly add to maintenance costs over time. We better account for it early. #ux #design
+
+**Source:** [LinkedIn](https://www.linkedin.com/posts/vitalyfriedman_ux-design-share-7480463081660284928-sexs/?utm_source=share&utm_medium=member_ios&rcm=ACoAAAedtLEBej9lid5LHaT1t_HU5bsQdM5QCJ0) · Vitaly Friedman · 2026-07-08
+**Tags:** ux-design, project-management, estimation, design-strategy

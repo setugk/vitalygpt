@@ -68,3 +68,33 @@ Article: https://lnkd.in/ed5p8kbp
 
 **Source:** [LinkedIn](https://www.linkedin.com/posts/vitalyfriedman_ux-design-share-7475325830043353089-fcXN/?utm_source=share&utm_medium=member_ios&rcm=ACoAAAedtLEBej9lid5LHaT1t_HU5bsQdM5QCJ0) · Vitaly Friedman · 2026-06-24
 **Tags:** Interaction Design, ux-design, bulk-operations, data-import
+
+---
+
+## Sorry, But Your Address Has Invalid Format!”.
+
+🚫 “Sorry, But Your Address Has Invalid Format!”. How To Design Better Address Forms, with wrong assumptions and helpful pointers to avoid lock-outs in forms ↓ 🤔 Not all addresses have a street, house, province or ZIP.
+✅ In North America, streets are defined by alpha-numeric grid,
+✅ In Middle East, addresses focus on blocks of buildings.
+✅ In East Asia, addresses refer to administrative areas.
+✅ Western addresses go from street to country.
+✅ Eastern addresses go from country to street. 🤔 Not all locales have states, provinces, counties, ZIP code.
+🤔 And if they do, they might never include them in addresses.
+✅ “Country/Region” is more universal than just “Country”.
+✅ “ZIP/Postal code” is more universal than “ZIP” or “Postal code”.
+✅ Canada has provinces, US/Mexico have states, UK has counties.
+✅ US has ZIP code, Canada has Postal code, UK has Postcode.
+✅ If possible, change address form based on selected country. 🚫 Don’t use address autocomplete for global audience.
+✅ But it works well if you target users from a specific country.
+🤔 Users often struggle with “Address Line 2”, and what it means. ✅ Hide “Address Line 2” behind a link to avoid confusion.
+✅ If you do use geolocation, pre-fill only the country, not the rest.
+✅ Always allow users to override validation rules. As Virginia Start writes, you can certainly create an experience that is good enough and will work for people around the world, but it won’t necessarily feel like it’s meant for them. In fact, an address form is a very tangible way to communicate who is included and who is excluded. People whose addresses don’t pass the validator aren’t outliers. They are real people with real addresses that are blocked by our interfaces. Perhaps the validator is too restrictive, or the building is new, or the address has changed, or we don’t support copy-paste. No validation is 100% bulletproof, so always give people a way out. Validation is useful, but allow users to override it if they believe that they are right. Your managers might be very surprised about the gains a business would get from doing so. --- Useful resources: Form Internationalization Techniques, by Andrew Coyle
+https://lnkd.in/eM7t-kZY How Etsy Localizes Addresses, by Danielle Grenier
+https://lnkd.in/e4-Dm4eT Designing Address Forms For Everyone, Everywhere, by Virginia Start
+https://lnkd.in/dDWxPNwp Best Practices For Address Form Design, by Tiina Golub
+https://lnkd.in/dQxM-Pa8 Universal Postal Union Address Database
+https://lnkd.in/evHsY6CB Address Form Technical Best Practices, by Sam Dutton
+https://lnkd.in/ehU9-9UX #ux #design
+
+**Source:** [LinkedIn](https://www.linkedin.com/posts/vitalyfriedman_ux-design-share-7482362201345949696-AK5d/?utm_source=share&utm_medium=member_ios&rcm=ACoAAAedtLEBej9lid5LHaT1t_HU5bsQdM5QCJ0) · Vitaly Friedman · 2026-07-13
+**Tags:** Accessibility, form-design, web-development, ux-design, internationalization
