@@ -140,7 +140,7 @@ To add a new insight: edit the relevant topic file and submit a PR. No code know
 
 ## Attribution
 
-All insights are sourced from Vitaly Friedman's public LinkedIn posts, with attribution and links to originals. This project is not affiliated with Vitaly or Smashing Magazine. Shared with permission (pending).
+All insights are sourced from Vitaly Friedman's public LinkedIn posts, with attribution and links to originals. This project is not affiliated with Vitaly or Smashing Magazine.
 
 ## License
 
