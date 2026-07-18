@@ -40,25 +40,6 @@ Add to your `.mcp.json`:
 }
 ```
 
-> The npm package isn't published yet. For now, clone and run locally:
-
-```json
-{
-  "mcpServers": {
-    "vitalygpt": {
-      "command": "node",
-      "args": ["/path/to/vitalygpt/dist/index.js"]
-    }
-  }
-}
-```
-
-```bash
-git clone https://github.com/setugk/vitalygpt.git
-cd vitalygpt
-npm install && npm run build
-```
-
 ---
 
 ## Contributing
@@ -94,7 +75,7 @@ To add a new insight: edit the relevant topic file and submit a PR. No code know
 
 ## Roadmap
 
-- [ ] Publish to npm as `@vitalygpt/mcp`
+- [x] Publish to npm as `@vitalygpt/mcp`
 - [ ] Deduplicate near-identical entries
 - [ ] Add semantic search (embeddings)
 - [ ] Support for contributions from Vitaly directly

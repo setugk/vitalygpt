@@ -7,6 +7,7 @@ const REPO_DIR = path.join(__dirname, "..");
 const CONTENT_DIR = path.join(REPO_DIR, "content");
 const KARAKEEP_API = process.env.KARAKEEP_API_ADDR || "https://bookmarks.setugk.com";
 const API_KEY = process.env.KARAKEEP_API_KEY;
+const DRY_RUN = process.argv.includes("--dry-run");
 
 // Priority-ordered: first match wins
 const TAG_TO_TOPIC: [string, string][] = [
@@ -76,12 +77,21 @@ function extractExistingUrls(): Set<string> {
 
 interface Bookmark {
   id: string;
-  url: string;
-  title?: string;
-  content?: { text?: string };
-  tags: { id: string; name: string }[];
   createdAt: string;
-  note?: string;
+  tags: { id: string; name: string }[];
+  content?: {
+    url?: string;
+    title?: string | null;
+    description?: string | null;
+    author?: string | null;
+    datePublished?: string | null;
+  };
+}
+
+function isVitalyBookmark(b: Bookmark): boolean {
+  const author = (b.content?.author || "").trim().toLowerCase();
+  if (author === "vitaly friedman") return true;
+  return b.tags.some((t) => t.name.toLowerCase() === "vitaly");
 }
 
 async function fetchVitalyBookmarks(): Promise<Bookmark[]> {
@@ -97,19 +107,41 @@ async function fetchVitalyBookmarks(): Promise<Bookmark[]> {
     cursor = data.nextCursor;
   } while (cursor);
 
-  return all.filter((b) => b.tags.some((t) => t.name.toLowerCase() === "vitaly"));
+  return all.filter(isVitalyBookmark);
+}
+
+// content.title is just the LinkedIn post's page title (e.g. "#ux #design | Vitaly
+// Friedman") -- the real hook line lives at the start of content.description.
+function extractTitle(description: string, fallback: string): string {
+  const firstLine = description.split("\n")[0] || "";
+  const noUrls = firstLine
+    .replace(/\(https?:\/\/\S+\)/g, "")
+    .replace(/https?:\/\/\S+/g, "")
+    .replace(/\s+,/g, ",")
+    .replace(/\s{2,}/g, " ");
+  const stripped = noUrls.replace(/^[^\p{L}\p{N}]+/u, "").trim();
+  const text = stripped || firstLine.trim();
+  if (!text) return fallback;
+  const sentence = text.match(/^(.{10,160}?[.!?])(\s|$)/);
+  if (sentence) return sentence[1].trim();
+  if (text.length <= 140) return text;
+  const cut = text.slice(0, 140);
+  const lastSpace = cut.lastIndexOf(" ");
+  return (lastSpace > 60 ? cut.slice(0, lastSpace) : cut).trim() + "…";
 }
 
 function formatInsight(b: Bookmark): string {
-  const title = (b.title || "Untitled").replace(/\n.*/s, "").trim();
-  const text = (b.content?.text || b.note || "").trim();
-  const date = b.createdAt ? b.createdAt.substring(0, 10) : "unknown";
+  const description = (b.content?.description || "").trim();
+  const fallbackTitle = (b.content?.title || "Untitled").replace(/\n.*/s, "").trim();
+  const title = extractTitle(description, fallbackTitle);
+  const date = (b.content?.datePublished || b.createdAt || "").slice(0, 10) || "unknown";
   const tags = b.tags
     .map((t) => t.name)
     .filter((t) => t.toLowerCase() !== "vitaly")
     .join(", ");
+  const url = b.content?.url || "";
 
-  return `\n---\n\n## ${title}\n\n${text}\n\n**Source:** [LinkedIn](${b.url}) · Vitaly Friedman · ${date}\n**Tags:** ${tags || "ux"}\n`;
+  return `\n---\n\n## ${title}\n\n${description}\n\n**Source:** [LinkedIn](${url}) · Vitaly Friedman · ${date}\n**Tags:** ${tags || "ux"}\n`;
 }
 
 async function main() {
@@ -121,20 +153,31 @@ async function main() {
   console.log("Fetching Vitaly bookmarks from Karakeep...");
   const existing = extractExistingUrls();
   const bookmarks = await fetchVitalyBookmarks();
-  const newBookmarks = bookmarks.filter((b) => b.url && !existing.has(b.url));
+  const newBookmarks = bookmarks.filter((b) => b.content?.url && !existing.has(b.content.url));
 
   if (newBookmarks.length === 0) {
     console.log("Nothing new to sync.");
     return;
   }
 
-  console.log(`Found ${newBookmarks.length} new bookmark(s):`);
+  console.log(`Found ${newBookmarks.length} new bookmark(s)${DRY_RUN ? " (dry run)" : ""}:\n`);
   for (const b of newBookmarks) {
     const tags = b.tags.map((t) => t.name);
-    const text = b.content?.text || b.note || "";
-    const topic = classifyTopic(tags, text);
-    fs.appendFileSync(path.join(CONTENT_DIR, `${topic}.md`), formatInsight(b), "utf-8");
-    console.log(`  [${topic}] ${b.title || b.url}`);
+    const description = b.content?.description || "";
+    const topic = classifyTopic(tags, description);
+    const insight = formatInsight(b);
+
+    if (DRY_RUN) {
+      console.log(`[${topic}]${insight}`);
+    } else {
+      fs.appendFileSync(path.join(CONTENT_DIR, `${topic}.md`), insight, "utf-8");
+      console.log(`  [${topic}] ${extractTitle(description, b.content?.url || "untitled")}`);
+    }
+  }
+
+  if (DRY_RUN) {
+    console.log(`--- Dry run: nothing written, committed, or pushed. ---`);
+    return;
   }
 
   execSync("git add content/", { cwd: REPO_DIR, stdio: "inherit" });
