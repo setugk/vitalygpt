@@ -27,7 +27,63 @@ Four tools, zero setup friction:
 
 **Requirements:** Node.js 18+
 
-Add to your `.mcp.json`:
+All clients use the same server command — only the config file's location (and sometimes its format) differs. After editing, **restart the client** so it picks up the change.
+
+### Claude Code
+
+Create `.mcp.json` at the **root** of the folder/workspace you open in Claude Code (not a subfolder — it won't be discovered otherwise):
+
+```json
+{
+  "mcpServers": {
+    "vitalygpt": {
+      "command": "npx",
+      "args": ["-y", "@vitalygpt/mcp"]
+    }
+  }
+}
+```
+
+Restart Claude Code, then confirm with `/mcp` or by asking "what MCP servers are connected?".
+
+### Claude Desktop
+
+Edit `claude_desktop_config.json`:
+- macOS: `~/Library/Application Support/Claude/claude_desktop_config.json`
+- Windows: `%APPDATA%\Claude\claude_desktop_config.json`
+
+Same JSON as above (top-level `mcpServers` key). Restart the app.
+
+### Cursor
+
+Create `.cursor/mcp.json` — either in a project root (project-only) or `~/.cursor/mcp.json` (all projects):
+
+```json
+{
+  "mcpServers": {
+    "vitalygpt": {
+      "command": "npx",
+      "args": ["-y", "@vitalygpt/mcp"]
+    }
+  }
+}
+```
+
+### OpenAI Codex CLI
+
+Add to `~/.codex/config.toml` (or `.codex/config.toml` in a trusted project):
+
+```toml
+[mcp_servers.vitalygpt]
+command = "npx"
+args = ["-y", "@vitalygpt/mcp"]
+```
+
+Or via the CLI: `codex mcp add vitalygpt -- npx -y @vitalygpt/mcp`
+
+### Gemini CLI
+
+Add to `~/.gemini/settings.json` (global) or `.gemini/settings.json` (project):
 
 ```json
 {
