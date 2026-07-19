@@ -282,3 +282,39 @@ Self-contained projects in well-understood workflows are typically straightforwa
 
 **Source:** [LinkedIn](https://www.linkedin.com/posts/vitalyfriedman_ux-design-share-7480463081660284928-sexs/?utm_source=share&utm_medium=member_ios&rcm=ACoAAAedtLEBej9lid5LHaT1t_HU5bsQdM5QCJ0) · Vitaly Friedman · 2026-07-08
 **Tags:** ux-design, project-management, estimation, design-strategy
+
+---
+
+## Free Books For Designers and Product Managers, a set of practical books on the impact of design, how to work with designers, how UX…
+
+🎁 Free Books For Designers and Product Managers (https://lnkd.in/efMti5V8), a set of practical books on the impact of design, how to work with designers, how UX research is supposed to work and an example of a guide for clients. Kindly put together by wonderful people from Eleken. for everyone to use. 👏🏼👏🏽👏🏾 🔷 Free Useful Books Product Design Psychology, by Wouter de Bres
+https://lnkd.in/dhdw__m9 The Manager’s Handbook, by Alex MacCaw
+https://lnkd.in/eVcUH8h5 Legacy Modernization Handbook, by Thoughtworks, Omar Bashir, Shodhan Sheth, Luke Vinogradov
+https://lnkd.in/dBczgTY7 Elizabeth’s Declassified Guide to Product Design, by Elizabeth L.
+https://lnkd.in/dn5QqWUa Product Design Interview Playbook
+https://lnkd.in/e8sezWwf Design Localization Handbook, by Lokalise
+https://lnkd.in/ejbxg_e6 The Ultimate Guide To Product Prioritization, by Tempo
+https://lnkd.in/e2ckRCPs Product Strategy and AI PM Playbooks, by Productboard
+https://lnkd.in/d4wu79XV Pricing Design, by Dan Mall
+https://lnkd.in/eWMHYcfe When Coffee & Kale Compete, by Alan Klement
+https://lnkd.in/ePX7WayB UX Guides and Books by Maze
+https://maze.co/guides/ Strategic Product Management Books, by Frank Lemser 🚀
+https://lnkd.in/dWK5AEsS Jobs To Be Done: Theory to Practice, by Tony Ulwick
+https://lnkd.in/d6VrDxrh Product-Led Onboarding, by Ramli John
+https://lnkd.in/dcq3sqNf AI Product Management Roadmap, by Paweł Huryn
+Guide: https://lnkd.in/dYG_fa7v
+PM AI Skills: https://lnkd.in/dztXvRYF --- 🔶 Useful UX Book lists Free Books For Interface & UX Designers
+https://lnkd.in/d7xkyUAs Book Recommendations by Stripe
+https://press.stripe.com UX Research Books, by Stéphanie Walter
+https://lnkd.in/dVHrcvth Inclusive Design Books, by Jessica Ivins
+https://lnkd.in/eaBs84A3 Books For Accessible Products, by Cat Noone
+https://lnkd.in/esXJCtrc Books For Enterpreneurs, by Intercom
+https://lnkd.in/dDtSNni4 Product Management Books, by Paweł Huryn
+https://lnkd.in/eWCxaUWs Behavioral Science Books, by Robert Meza
+https://lnkd.in/dWAmn6WT Data Visualization Books, by Nadieh Bremer
+https://lnkd.in/eMBVeyEs Business Books For Designers, by Chris Do
+https://lnkd.in/dTqR2zXZ Interface Design Books, by Adham Dannaway
+https://lnkd.in/eByKaXTY Happy reading, everyone! 🎉🥳 ↓ | 18 comments on LinkedIn
+
+**Source:** [LinkedIn](https://www.linkedin.com/posts/vitalyfriedman_free-books-for-designers-and-product-managers-share-7484489237304860673-2wbe/?utm_source=share&utm_medium=member_ios&rcm=ACoAAAedtLEBej9lid5LHaT1t_HU5bsQdM5QCJ0) · Vitaly Friedman · 2026-07-19
+**Tags:** product-management, ux-research, product-design, design-resources
