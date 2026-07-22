@@ -318,3 +318,19 @@ https://lnkd.in/eByKaXTY Happy reading, everyone! 🎉🥳 ↓ | 18 comments on 
 
 **Source:** [LinkedIn](https://www.linkedin.com/posts/vitalyfriedman_free-books-for-designers-and-product-managers-share-7484489237304860673-2wbe/?utm_source=share&utm_medium=member_ios&rcm=ACoAAAedtLEBej9lid5LHaT1t_HU5bsQdM5QCJ0) · Vitaly Friedman · 2026-07-19
 **Tags:** product-management, ux-research, product-design, design-resources
+
+---
+
+## UX Research Maturity Framework, a helpful tool to assess the status of UX research maturity against 6 key areas: buy-in and resources,…
+
+🎢 UX Research Maturity Framework (https://lnkd.in/eUeNHMe5), a helpful tool to assess the status of UX research maturity against 6 key areas: buy-in and resources, strategy, methods and operations, standards and compliance, capacity building and impact. Put together by Karin den Bouwmeester. UX Research Maturity Benchmark (Report)
+https://lnkd.in/e65GqPUj UXR Maturity Benchmark Survey 2026 (join in!)
+https://lnkd.in/eXt7NKZ7 Each area of UX research maturity can be at one of the 5 levels of maturity — from non-existent to emerging to developing to established to pioneering. And depending on the nature of the company, some key areas will be at different levels of UXR maturity. Once we know where we stand, we can assess where we want to and how we can make progress. As Karin writes, we can’t change everything at once. To make an impact, I would always try to first identify bottlenecks that make it difficult for research to inform product decisions. Our improvements should then be focused around addressing that bottleneck — and typically it will open up opportunities for improvement. That’s where we need to look into which areas we need to try to improve, and that’s where the model can help. I can also wholeheartedly recommend a very comprehensive overview of Eight Pillars of User Research (https://lnkd.in/dxM2Tq7e) by Emma Boulton, which covers all the broad areas and parts of UX Research — from environment and scope to governance and tools. That’s where improvements could happen. Useful resources: How to Level Up Your User Research Career, by Nikki Anderson, MA
+https://lnkd.in/eXQcsxEB A Design Research Framework (PDF), by Erika Hall
+https://lnkd.in/eRRwd4nW The Eight Pillars of User Research, by Emma Boulton
+https://lnkd.in/dxM2Tq7e How Product Teams Use AI In UX Research, by Kate Towsey, Stella
+Article: https://lnkd.in/dAj7ERki
+PDF: https://lnkd.in/ds9n8vk2 ↓
+
+**Source:** [LinkedIn](https://www.linkedin.com/posts/vitalyfriedman_ux-research-maturity-framework-https-share-7485605693983535104-HO7f/?utm_source=share&utm_medium=member_ios&rcm=ACoAAAedtLEBej9lid5LHaT1t_HU5bsQdM5QCJ0) · Vitaly Friedman · 2026-07-22
+**Tags:** user-research, product-management, ux-research, maturity-framework
