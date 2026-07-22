@@ -80,7 +80,7 @@ async function getInsights(): Promise<Insight[]> {
 }
 
 const server = new Server(
-  { name: "vitalygpt", version: "0.2.0" },
+  { name: "vitalygpt", version: "0.2.1" },
   { capabilities: { tools: {} } }
 );
 
