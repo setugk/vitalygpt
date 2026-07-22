@@ -67,7 +67,17 @@ function searchInsights(insights: Insight[], query: string): Insight[] {
   });
 }
 
-let insights: Insight[] = [];
+let cachedInsights: Insight[] = [];
+let cachedAt = 0;
+const CACHE_TTL_MS = 5 * 60 * 1000;
+
+async function getInsights(): Promise<Insight[]> {
+  if (Date.now() - cachedAt > CACHE_TTL_MS) {
+    cachedInsights = await loadInsights();
+    cachedAt = Date.now();
+  }
+  return cachedInsights;
+}
 
 const server = new Server(
   { name: "vitalygpt", version: "0.2.0" },
@@ -124,6 +134,7 @@ server.setRequestHandler(ListToolsRequestSchema, async () => ({
 
 server.setRequestHandler(CallToolRequestSchema, async (request) => {
   const { name, arguments: args } = request.params;
+  const insights = await getInsights();
 
   if (name === "list_topics") {
     const topicCounts = Object.entries(TOPIC_LABELS).map(([slug, label]) => {
@@ -207,7 +218,6 @@ server.setRequestHandler(CallToolRequestSchema, async (request) => {
 });
 
 async function main() {
-  insights = await loadInsights();
   const transport = new StdioServerTransport();
   await server.connect(transport);
 }
