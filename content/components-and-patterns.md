@@ -504,3 +504,12 @@ Target sizes: https://lnkd.in/ePuc3mbJ
 
 **Source:** [LinkedIn](https://www.linkedin.com/posts/vitalyfriedman_ux-design-activity-7135206435843399680-U27Z) · Vitaly Friedman · 2026-06-15
 **Tags:** Accessibility, Interaction Design, Layout, visual thinking, design-patterns, ux-design, ui-guidelines
+
+---
+
+## UI Sound Effects For Every Product State (936 sounds, open source), a lovely repository of UI sound effects for web apps, mobile apps,…
+
+🔉 UI Sound Effects For Every Product State (936 sounds, open source) (https://uisfx.com), a lovely repository of UI sound effects for web apps, mobile apps, SaaS, education, media and games — with 12 distinct sonic personalities, loops, brief one-shots and semantic UI cues. Put together by Yuki Capital. When we think about our digital products, sound isn’t usually what comes to our minds at first. However, I love the idea of passing subtle sonic cues to users depending on the state of the UI and product state. And would love to see more experiments driving this idea forward! Just one thing to keep in mind: just like we should never rely on color alone to communicate messages, we shouldn’t rely on sound alone either. As creators of the library write, sound should reinforce visible feedback, but never replace it.
+
+**Source:** [LinkedIn](https://www.linkedin.com/posts/vitalyfriedman_ui-sound-effects-for-every-product-state-share-7486351994413314048--Y7M/?utm_source=share&utm_medium=member_ios&rcm=ACoAAAedtLEBej9lid5LHaT1t_HU5bsQdM5QCJ0) · Vitaly Friedman · 2026-07-24
+**Tags:** user-experience, ui-design, web-development, sound-design
