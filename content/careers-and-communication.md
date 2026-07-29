@@ -210,3 +210,27 @@ https://lnkd.in/eaCcnaYV Storyteller Tactics For Presentations (Deck), by Steve
 
 **Source:** [LinkedIn](https://www.linkedin.com/posts/vitalyfriedman_ux-design-presentations-activity-7153472605591601153-7bk9) · Vitaly Friedman · 2026-06-15
 **Tags:** Interview content, Portfolio, Presentation, Storytelling, visual thinking, ux-design, presentations, public-speaking, presentation-design
+
+---
+
+## The 109 Rules Of Storytelling (Free Book), a wonderful practical guide with advice, notes, strategies and techniques for better…
+
+🪵🔥 The 109 Rules Of Storytelling (Free Book) (https://lnkd.in/eZxVak9d), a wonderful practical guide with advice, notes, strategies and techniques for better storytelling in presentations, reports and meetings — to capture attention and drive meaningful action. Wonderfully put together and kindly shared by one-and-only Jeremy Connell-Waite. Jeremy’s post: https://lnkd.in/eZxVak9d
+Free PDF: https://lnkd.in/eMFMBMgb As I was reading through the book, I kept taking notes about little things that resonated with the way I would structure reports or meetings, but also critical bits that I might have overlooked. Useful takeaways: – There is nothing more impactful than black screen and silence.
+– Think of your hands as punctuation: open gestures emphasise key points.
+– Avoid screen-sharing by default. Nothing kills human connection faster.
+– You have about 75s to capture attention when you start talking.
+– One “but” every 60-90s (125-200 words) is a good ratio.
+– Leave some details out to let people fill in the gaps on their own.
+– Your voice is your superpower: vary your pace, pitch, and pauses.
+– The fastest way to get people to remember is to make them laugh.
+– The most powerful emotion in storytelling is surprise.
+– If a story has no stakes, it has no pulse → show the cost of inaction.
+– A story’s ending is the beginning of what the audience remembers. In times of AI, nothing is more impactful than a genuine, sincere human connection. The feeling of mutual trust and respect. The presence of vulnerability and humility. The value of critical thinking. I strongly believe that if we can wrap a story around that — our truly human attributes and experiences — we can move the audience in a way AI never could. We probably will end up orchestrating digital experiences with less pixel pushing and more automation under the hood. But to make a true impact, we need to curate, we need to raise the right questions and we need tell a damn good story to get people on our side. I don’t see it changing any time soon. --- ✤ Useful resources Story Structure Cheat Sheet
+https://lnkd.in/dzMJJySF The Story Compass (Free Guide)
+https://lnkd.in/dDjD8dT5 Free Storytelling Masterclass (+ PDFs)
+https://lnkd.in/ddmyFCbQ Story Arcs For Effective Storytelling (PDF)
+https://lnkd.in/dRPB4FPR I can only wholeheartedly recommend to follow Jeremy Connell-Waite on LinkedIn, along with the resources he kindly shares on BetterStories.org. Thanks for your incredible and passionate work, Jeremy! ↓
+
+**Source:** [LinkedIn](https://www.linkedin.com/posts/vitalyfriedman_the-109-rules-of-storytelling-free-share-7453340997452767232-quma/?utm_source=share&utm_medium=member_ios&rcm=ACoAAAedtLEBej9lid5LHaT1t_HU5bsQdM5QCJ0) · Vitaly Friedman · 2026-07-29
+**Tags:** public-speaking, Communication, Storytelling, presentation-skills
