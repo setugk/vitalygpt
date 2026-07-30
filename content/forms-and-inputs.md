@@ -98,3 +98,30 @@ https://lnkd.in/ehU9-9UX #ux #design
 
 **Source:** [LinkedIn](https://www.linkedin.com/posts/vitalyfriedman_ux-design-share-7482362201345949696-AK5d/?utm_source=share&utm_medium=member_ios&rcm=ACoAAAedtLEBej9lid5LHaT1t_HU5bsQdM5QCJ0) · Vitaly Friedman · 2026-07-13
 **Tags:** Accessibility, form-design, web-development, ux-design, internationalization
+
+---
+
+## Ho﻿w To Design For Aging Population.
+
+🏎️💨 Ho﻿w To Design For Aging Population. One billion people aged 60+ live today, and it’s growing faster than any other age group. Key points to consider for age-inclusive UX ↓ 🚫 Don’t assume that older adults struggle to use digital.
+✅ Most users are healthy, active and have a solid income.
+🤔 With age, it’s more difficult to focus on close objects.
+🤔 Visuals with a similar contrast are harder to tell apart.
+🤔 60 years → need 3× more light to perceive same brightness. 🤔 With age, shades of blue/purple, yellow/green look similar.
+🤔 Reduced dexterity causes errors with precise movements.
+✅ Add UI controls to resize columns, move cards, drag-n-drop.
+✅ Always confirm destructive actions, allow to Undo/restore.
+🚫 Avoid disappearing messages as toasts: let people close them. ✅ Baseline: large body copy (16px+), color contrast (WCAG AA).
+✅ Prefer plain language, large checkboxes, radios (36px+).
+✅ Avoid small floating labels and use static field labels.
+✅ Show error messages above the text input, not below.
+🚫 Don’t rely on accessibility overlays; they are trouble. Accessibility doesn’t have to be dull or boring. It doesn’t come at the cost of oversimplification — it can be bold and passionate, while understanding and respecting the needs of the different audiences it caters to. If anything, it makes boldness more accessible to more people. Conversations about older audiences tend to come with plenty of assumptions and stereotypes — and very often they are simply inaccurate. We overgeneralize and simplify. Just like when designing for children, we need to study vast differences in the age groups of 60–65, 65–70 etc. Just like any other group, older users need a reliable, clear product that helps them feel independent and competent. Bring older adults in your design process to find out what their specific needs are. As always, it’s better not only for them, but for everyone. And huge kudos to wonderful people contributing to a topic that is often forgotten and overlooked. 👏🏽 --- ✤ Useful resources Wise Case Study: Accessible But Never Boring, by Stephanie S.
+https://lnkd.in/d-hjj_BF Designing For Older Audiences, by Matthew Stephens
+https://lnkd.in/dAXZ9mp3 Voice Design Strategies For Elderly, by Shyamala Prayaga
+https://lnkd.in/dQgUUe8C Better Microcopy For Older Adults, by Kinneret Yifrah
+https://lnkd.in/evWGFB6u What You Can Learn From Older Adults, by Becca Selah
+https://lnkd.in/eZdbgRyA Designing Age-Inclusive Products, by Michal Halperin Ben Zvi (PhD.)
+https://lnkd.in/eQZJwEgS ↓
+
+**Source:** [LinkedIn](https://www.linkedin.com/posts/vitalyfriedman_how-to-design-for-aging-population-share-7488332412716761088-5_EN/?utm_source=share&utm_medium=member_ios&rcm=ACoAAAedtLEBej9lid5LHaT1t_HU5bsQdM5QCJ0) · Vitaly Friedman · 2026-07-30
+**Tags:** ux-design, web-accessibility, inclusive-design, accessible-design, aging-population
