@@ -334,3 +334,28 @@ PDF: https://lnkd.in/ds9n8vk2 ↓
 
 **Source:** [LinkedIn](https://www.linkedin.com/posts/vitalyfriedman_ux-research-maturity-framework-https-share-7485605693983535104-HO7f/?utm_source=share&utm_medium=member_ios&rcm=ACoAAAedtLEBej9lid5LHaT1t_HU5bsQdM5QCJ0) · Vitaly Friedman · 2026-07-22
 **Tags:** user-research, product-management, ux-research, maturity-framework
+
+---
+
+## Books For Designers Who Work On Hard, Complex Problems, a wonderful overview of books for designers who are setting out to make a positive…
+
+📚 Books For Designers Who Work On Hard, Complex Problems (https://lnkd.in/gAz6nyiT), a wonderful overview of books for designers who are setting out to make a positive difference in the world — in healthcare, education, public service, climate change. Kindly put together by Daniel Burka. 🔶 My personal book recommendations Here are some of my personal recommendations for books that I keep very close to my heart (in no specific order). These aren’t books about design nor books for designers, but I found them very insightful and helpful over the years: 1. How Big Things Get Done, by Prof. Bent Flyvbjerg and Gardner
+Fantastic research on why big projects run late and over budget, why right-to-left thinking matters and how to minimize risks of failures and delays. 2. Org Design for Design Orgs, by Peter Merholz and Skinner
+How to build, structure and scale in-house design teams — on hiring, roles and operating models. Not a topic that’s often covered. 3. Thinking in Bets, by Annie Duke
+How to make better decisions under uncertainty, when you don’t have all the facts. 4. The Missing Billionaires, by Haghani & White
+How to strategically approach risk and financial decisions over long period of time. 5. Algorithms to Live By, by Christian & Griffiths
+An insightful take on how to map algorithms to daily life and decision making. 6. Narrative Economics, by Robert Shiller
+How contagious stories, not just data, drive events and spread impact over time. 7. Bulletproof Problem Solving, by Conn & McLean
+A classic 7-step framework for cracking complex, ambiguous problems. 8. The Phoenix Project, by Kim, Behr & Spafford
+A novel, but a truly amazing book on flow, bottlenecks and operations. 9. The Goal, by Eliyahu Goldratt
+Legendary classic on improving a system by finding and fixing bottlenecks. 10. The Culture Map, by Erin Meyer
+How to communicate and work across cultures — feedback, trust, decision-making. 11. Thinking in Systems, by Donella Meadows Probably the clearest guide to systems thinking, feedback loops and how to intervene. 12. Articulating Design Decisions, by Tom Greever
+A great strategic book on how to communicate UX work to senior management. 13. Envisioning Information, by Edward Tufte
+A classic on how to deal with complex data and how to display it to maximize clarity. 14. A Pattern Language, by Christopher Alexander
+Actually an architecture book that highlights patterns for urban living and working sapces. 15. Practical Charts, by Nick Desbarats
+The only practical guide to charts that I found incredibly easy to understand. 16. The Great Mental Models, by Shane Parrish
+How people think, grasp new areas, find patterns and understand the world. 17. The Laws of Simplicity, by John Maeda
+A classic. A very short book that entirely changed how I think about design decades ago. --- So, what books would you recommend? Would love to hear your recommendations in the comments below — and also what exactly you learned from these books! ↓
+
+**Source:** [LinkedIn](https://www.linkedin.com/posts/vitalyfriedman_books-for-designers-who-work-on-hard-share-7488818338660462592-9WtD/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAedtLEBej9lid5LHaT1t_HU5bsQdM5QCJ0) · Vitaly Friedman · 2026-07-31
+**Tags:** professional-development, design, book-recommendations, problem-solving
