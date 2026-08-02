@@ -27,7 +27,17 @@ Four tools, zero setup friction:
 
 **Requirements:** Node.js 18+
 
-All clients use the same server command — only the config file's location (and sometimes its format) differs. After editing, **restart the client** so it picks up the change.
+### Fastest way: ask your AI agent
+
+Paste this into whatever AI coding agent you use — Claude Code, Cursor, Codex, Gemini, all of them:
+
+> Read the setup instructions at github.com/setugk/vitalygpt and add its MCP server (`npx -y @vitalygpt/mcp`) to your own config in whatever way is correct for you.
+
+It'll fetch this page, figure out the right config mechanism for itself, and tell you when to restart.
+
+### Manual setup
+
+Prefer to do it yourself? All clients use the same server command — only the config file's location (and sometimes its format) differs. After editing, **restart the client** so it picks up the change.
 
 ### Claude Code
 
