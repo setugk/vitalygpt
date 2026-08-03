@@ -359,3 +359,21 @@ A classic. A very short book that entirely changed how I think about design deca
 
 **Source:** [LinkedIn](https://www.linkedin.com/posts/vitalyfriedman_books-for-designers-who-work-on-hard-share-7488818338660462592-9WtD/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAedtLEBej9lid5LHaT1t_HU5bsQdM5QCJ0) · Vitaly Friedman · 2026-07-31
 **Tags:** professional-development, design, book-recommendations, problem-solving
+
+---
+
+## Four Levels Of Customer Understanding, how to think of underlying reasons for user behavior, hidden motivations, root causes and the…
+
+🔮 Four Levels Of Customer Understanding (https://lnkd.in/eJFghrDe), how to think of underlying reasons for user behavior, hidden motivations, root causes and the different layers of reality that are often overlooked in product design — from what people say to what they think or feel to what they actually do to reasons why they do it. By Hannah Shamji via Helio. 🤔 What people do, say, think and feel are often different.
+🚫 Assumptions and hunches rely on most obvious reasons.
+✅ But most obvious reasons rarely paint the full picture.
+✅ People don’t always cancel because they actually want to.
+✅ Pricing is never the only reason why people don’t buy. 🤔 Customers often don’t realize why they made a decision.
+✅ We built understanding by studying 4 levels of reality.
+✅ Level 1: “What we tell others”, unreliable, opinions, hearsay.
+✅ Level 2: “What we tell ourselves”, interviews, debrief, surveys.
+✅ Level 3: “What we actually do”, task analysis, observation.
+✅ Level 4: “Why we do it”, task walkthroughs, context, interviews. Level 1 is most unreliable, and barely brings good insights. Often people imagine and say things that don’t necessarily represent real reasons for their behavior. They rather explain behavior through the lens of how a customer perceives it, or wants it to be perceived. The real magic happens on higher levels. But they require right questions, interviews and observations and, most importantly, user’s trust. So ask people to walk you through their daily routine. Explain to you where your product fits in their life. Observe how they complete their tasks in their environment. Study where they lose time, repeat actions, hover but don’t click, or click and then go back. Don’t ask them to speak loudly. Pay attention to when they scratch their neck, or raise their eyebrows. Smile, or laugh, or look worried. Many companies speak about “validation”. Yet validation often means accepting and confirming existing assumptions. As Hannah Shamji writes, instead, we should diagnose existing behavior without any preconceived notions or affiliations. So don’t validate — research instead. The hardest part is understanding customer’s real motivations — and the only way to get there is by building a sincere, honest and trustworthy relationship. A relationship that feels right. One that customers can wholeheartedly engage in. Once your customers really care and want to help, getting to real understanding will be much, much easier. (Leaving useful resources in the comments below due to LinkedIn link policy ↓)
+
+**Source:** [LinkedIn](https://www.linkedin.com/posts/vitalyfriedman_four-levels-of-customer-understanding-share-7489577682733686784-X0zj/?utm_source=share&utm_medium=member_ios&rcm=ACoAAAedtLEBej9lid5LHaT1t_HU5bsQdM5QCJ0) · Vitaly Friedman · 2026-08-02
+**Tags:** user-experience, user-research, product-design, customer-behavior

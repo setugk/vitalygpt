@@ -123,3 +123,23 @@ https://lnkd.in/e4WfFEvF — Glad to see more and more resources emerging around
 
 **Source:** [LinkedIn](https://www.linkedin.com/posts/vitalyfriedman_ux-design-ai-share-7445731620265000960-Uc3q/?utm_source=share&utm_medium=member_ios&rcm=ACoAAAedtLEBej9lid5LHaT1t_HU5bsQdM5QCJ0) · Vitaly Friedman · 2026-07-01
 **Tags:** design-systems, Interaction Design, ai-design, ux-patterns, ai-interfaces
+
+---
+
+## Dependency Graphs For Design Tokens and UI Components.
+
+📦 Dependency Graphs For Design Tokens and UI Components. Useful helpers to visualize the relationship between design tokens in a design system and the components that consume them. Time-savers! Kindly discovered by Doug Lazarini ↓ Impact Atlas (Figma), by Rafael Matos da Silva
+https://lnkd.in/dmmz64n6 Lineage (Figma), by Lalo Martínez
+https://lnkd.in/dKzPwS-M Asset Dependencies (Figma), by Will Johnson
+https://lnkd.in/deKSWqUP Component Tracker (Figma), by Jeremy Dahan
+https://lnkd.in/dhVymXkm Design System Explorer (Figma), by Yarik Bright
+https://lnkd.in/d_VPAw3q Synapse (Figma), by Christian Heydt
+https://lnkd.in/dBPJKFdx Component Graph (WIP, Figma), by Javier Cuello
+https://lnkd.in/d9FqaDi3 Design Tokens Visualizer
+https://lnkd.in/d9iZBsyg Dependency Visualizer (Engineering)
+https://lnkd.in/dJt3EDVD Madge Module Dependencies (Engineering)
+https://lnkd.in/dbDSTMfe Dealing With Dependencies, by Nathan Curtis
+https://lnkd.in/d_g3A_n3 --- It’s difficult to understand just how much impact a particular change in a design system has on other components and values downstream — and estimate the scope of a change before making it. In fact, even small changes are likely to produce regressions — and if 3rd parties are involved, often understanding that impact is nearly impossible. I love how all the tools listed above try to solve that problem for good. In words of Javier Cuello, you select a design token or a UI component, or even just an instance of one, and you get a sense of everything it uses, everything that uses it and you can navigate back and forth to see all non-direct relationships as well. Very helpful time-savers! If you know of any other tools to visualize dependencies, please do share them in the comments below, so we all can learn together! And huge thanks to the creators for sharing all these tools for all of us to use! 💚 #ux #designsystems
+
+**Source:** [LinkedIn](https://www.linkedin.com/posts/vitalyfriedman_ux-designsystems-share-7489933070704336896-BtrA/?utm_source=share&utm_medium=member_ios&rcm=ACoAAAedtLEBej9lid5LHaT1t_HU5bsQdM5QCJ0) · Vitaly Friedman · 2026-08-03
+**Tags:** design-systems, design-tokens, Figma, ux-design
