@@ -460,3 +460,12 @@ Users don’t need more tools to use daily — AI or not AI. They need better in
 
 **Source:** [LinkedIn](https://www.linkedin.com/posts/vitalyfriedman_users-dont-need-more-tools-to-use-daily-share-7454428610007867393-cnKF/?utm_source=share&utm_medium=member_ios&rcm=ACoAAAedtLEBej9lid5LHaT1t_HU5bsQdM5QCJ0) · Vitaly Friedman · 2026-07-25
 **Tags:** user-experience, product-design, automation, artificial-intelligence, ai-integration
+
+---
+
+## New guidelines around AI labelling in Europe, when it’s necessary and what it means for AI features and AI products.
+
+New guidelines around AI labelling in Europe, when it’s necessary and what it means for AI features and AI products.
+
+**Source:** [LinkedIn](https://www.linkedin.com/pulse/new-eu-guidelines-ai-labelling-vitaly-friedman-t8gnf?utm_source=share&utm_medium=member_ios&utm_campaign=share_via) · Vitaly Friedman · 2026-08-04
+**Tags:** artificial-intelligence, ai-regulation, eu-guidelines, ai-labeling

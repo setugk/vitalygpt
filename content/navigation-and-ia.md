@@ -110,3 +110,30 @@ https://lnkd.in/dTcaTpbF Happy reading, everyone — and yet again a *huge* tha
 
 **Source:** [LinkedIn](https://www.linkedin.com/posts/vitalyfriedman_ux-design-share-7479805314322567168-aBxo/?utm_source=share&utm_medium=member_ios&rcm=ACoAAAedtLEBej9lid5LHaT1t_HU5bsQdM5QCJ0) · Vitaly Friedman · 2026-07-06
 **Tags:** user-experience, ux-design, legacy-systems, modernization, change-management
+
+---
+
+## Design Guidelines For Toast Messages UX .
+
+🍞 Design Guidelines For Toast Messages UX (https://lnkd.in/dnHYX4dF). With practical guidelines to keep in mind when designing toasts and snackbars for notifications ↓ ✅ Toasts notify users about updates, change of state, errors.
+✅ Their purpose is to not interrupt users from their main task.
+🤔 Yet they often turn the interface into a race against time.
+🤔 They often appear far away from user’s focus of attention.
+🤔 They block nav/content, get overlooked on large screens. ✅ English readers read 250–300 words/min, with 5.8ch/word.
+✅ Animate fade in at 200–400ms, fade out at 700–1500ms.
+✅ Keep the toast visible for at least 2s, but at most 7s.
+✅ Show duration = 50ms × [number of characters] (for English).
+↳ 10 words → 10 × 5.8ch/word = 58ch × 50ms → 2900ms. ✅ Keep them visible until the user navigates away (or dismisses).
+✅ Better: show a prominent message at the top of the page.
+✅ Better: show an updating status in a persistent/sticky header.
+✅ Better: update the UI component where action happened.
+🚫 Don’t use toasts for actionable decisions or error messages. For critical and severe messaging that users should act upon, you might be better off without a toast message. For passive messaging, toasts *might* work, but don’t rely on people noticing them. At best, keep them persistent and allow users to dismiss them. And for frequent notifications, consider a sticky status bar or display messages next to the action they relate to. Full article and examples in today’s newsletter ↓
+https://lnkd.in/dnHYX4dF ---
+Happy designing, everyone! 🎉🥳 🌻 My friendly UX courses: 🦕 How To Modernize Legacy UX → https://lnkd.in/eypaH49i
+🚢 Complex UIs and Enterprise UX → https://lnkd.in/dxD2y3q9
+🍣 Interface Design Patterns → https://lnkd.in/d4CNaTxR
+🔮 Design Patterns For AI 2026 → https://smashed.by/ai-ux
+🍎 Measure UX & Design Impact → https://measure-ux.com Thanks for reading and for your continuous support! 🎉🥳 ↓
+
+**Source:** [LinkedIn](https://www.linkedin.com/posts/vitalyfriedman_design-guidelines-for-toast-messages-ux-share-7480177104370978816-kj79/?utm_source=share&utm_medium=member_ios&rcm=ACoAAAedtLEBej9lid5LHaT1t_HU5bsQdM5QCJ0) · Vitaly Friedman · 2026-07-07
+**Tags:** user-experience, design-guidelines, ui-design, notifications

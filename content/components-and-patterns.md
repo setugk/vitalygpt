@@ -513,3 +513,26 @@ Target sizes: https://lnkd.in/ePuc3mbJ
 
 **Source:** [LinkedIn](https://www.linkedin.com/posts/vitalyfriedman_ui-sound-effects-for-every-product-state-share-7486351994413314048--Y7M/?utm_source=share&utm_medium=member_ios&rcm=ACoAAAedtLEBej9lid5LHaT1t_HU5bsQdM5QCJ0) · Vitaly Friedman · 2026-07-24
 **Tags:** user-experience, ui-design, web-development, sound-design
+
+---
+
+## Confirm vs.
+
+🔮 Confirm vs. Undo UX Decision Tree (PDF: https://lnkd.in/dZY2YA8j). When to use confirmation dialogs, how to avoid frustration and prevent severe mistakes down the line ↓ 🤔 Users need guardrails to prevent critical mistakes.
+✅ Confirm verifies user’s intent to perform an action.
+✅ Undo trusts users to do the right thing and reverse later.
+✅ Choice depends on frequency of use + level of severity.
+✅ Low impact + frequent → Undo. Severe + rare → Confirm. 🤔 Users often instinctively Confirm, or overlook Undo.
+🚫 Avoid ambiguous terms, e.g. “Yes”, “Confirm”, “Cancel”.
+🚫 Avoid double negatives, e.g. Cancelling a “Cancel” action.
+✅ Better: “Stay”, “Leave”, “Quit”, “Delete”, “Unsubscribe”.
+✅ Add “Forever”, “Permanently” for irreversible actions.
+✅ Ask users to type text to avoid instinctive clicks or taps. 🤔 Confirm dialogs break user‘s flows and slow them down.
+✅ If you interrupt a user (“Confirm”), make sure it’s worth it.
+✅ Only few actions are irreversible, so use Undo by default.
+✅ Delay irreversible actions (15 mins) if you can’t undo them.
+🚫 Avoid “Undo” as fading toasts; “Undo” button works better. Decision Tree (high-res): https://lnkd.in/eBBbqJez
+PDF: https://lnkd.in/dZY2YA8j Often actions have unintended consequences. But they don’t have the same impact. For low severity actions (e.g. moving folders), one-click action might be right. For medium severity (e.g. re-arranging files), prefer Undo. For high severity (e.g. delete entire project), Confirm typing + Undo might be needed. Only few actions are irreversible. But when they are, Confirm might be a good choice. Especially when actions are global or contradicting, such as deleting of linked items, removing data from other accounts or disconnecting devices. And: it’s a good way to warn users when exiting or closing without saving. And: always test your wording on “Undo” and “Confirm” buttons. That’s where users often have a lot to lose, and where a product has a lot to gain. That’s where we can make the highest impact of UX, by building trust — and save hours of work or preventing disastrous mistakes. ↓
+
+**Source:** [LinkedIn](https://www.linkedin.com/posts/vitalyfriedman_confirm-vs-undo-ux-decision-tree-pdf-share-7480388332749742080-w1R-/?utm_source=share&utm_medium=member_ios&rcm=ACoAAAedtLEBej9lid5LHaT1t_HU5bsQdM5QCJ0) · Vitaly Friedman · 2026-07-07
+**Tags:** user-experience, Interaction Design, ux-design, dialog-design, error-prevention
