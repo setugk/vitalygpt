@@ -536,3 +536,25 @@ PDF: https://lnkd.in/dZY2YA8j Often actions have unintended consequences. But th
 
 **Source:** [LinkedIn](https://www.linkedin.com/posts/vitalyfriedman_confirm-vs-undo-ux-decision-tree-pdf-share-7480388332749742080-w1R-/?utm_source=share&utm_medium=member_ios&rcm=ACoAAAedtLEBej9lid5LHaT1t_HU5bsQdM5QCJ0) · Vitaly Friedman · 2026-07-07
 **Tags:** user-experience, Interaction Design, ux-design, dialog-design, error-prevention
+
+---
+
+## Modal vs. Page: UX Decision Tree, a helpful decision tree with a practical guide on how to choose between interrupting a flow or adding a new page.
+
+🌳 Modal vs. Page: UX Decision Tree (https://lnkd.in/dvqJEijU), a helpful decision tree with a practical guide on how to choose between interrupting a flow or adding a new page. Kindly shared by Ryan Neufeld. Decision tree (High-Res PNG): https://lnkd.in/dKvrde7v --- Modals help keep the context of the current screen. We use them for single, self-contained tasks where users should jump in, complete a task, and return to where they were. They do work well for high-priority, short interactions (e.g. alerts, destructive actions, timeouts). Wizards or tabbed navigation within modals doesn’t work too well, even in complex enterprise products — side panels or drawers typically work better. Often users have to compare or reference data points, but modals block this behavior, so they re-open the same page in multiple tabs instead. For more complex flows and multi-step processes pages work best. Page also works best when it demands user’s full attention without reference to the previous screen. Drawers work for sub-tasks that are too complex for a simple modal, but don’t need a full page navigation. --- 🚫 Modals are often disruptive, invasive and confusing.
+🚫 They make it difficult to compare and copy-paste.
+✅ Yet modals allow users to maintain multiple contexts.
+✅ Useful to prevent irreversible errors and data loss.
+✅ Useful if sending users to a new page would be disruptive. ✅ Show a modal only if users will value the disruption.
+✅ By default, prefer non-blocking dialogs (“non-modals”).
+✅ Allow users to minimize, hide or restore dialog later.
+✅ Use a modal to slow users down, e.g. verify complex input.
+✅ Give a way out with “Close”, ESC key, click outside the box. 🚫 Avoid modals for error messages.
+🚫 Avoid modals for feature notifications.
+🚫 Avoid modals for onboarding tutorials.
+🚫 Avoid modals for complex, lengthy multi-step-tasks.
+🚫 Avoid multiple nested modals and use prev/next instead.
+🚫 Avoid auto-triggered modals unless absolutely necessary. --- We often dismiss modals as irrelevant and annoying, yet they have their value as well. They can be very helpful to warn users about potential mistakes or help them avoid data loss. They also can help users perform related actions or learn more details without interrupting the current state of the page. Yet whenever possible, avoid blocking the entire UI. Have a dialog floating, partially covering the UI, but allowing navigation, scrolling and copy-pasting. Or show the contents of the modal as a side drawer. Or use a vertical accordion instead. Or bring users to a separate page if you need to show a lot of detail. Avoid modals if you want to boost user’s efficiency and speed. Use them to slow users down to bundle their attention and prevent mistakes. As Therese Fessenden noted, no one likes to be interrupted, but if you must, make sure it’s absolutely worth the cost. ↓
+
+**Source:** [LinkedIn](https://www.linkedin.com/posts/vitalyfriedman_modal-vs-page-ux-decision-tree-https-share-7490662033923891201-BJyy/?utm_source=share&utm_medium=member_ios&rcm=ACoAAAedtLEBej9lid5LHaT1t_HU5bsQdM5QCJ0) · Vitaly Friedman · 2026-08-05
+**Tags:** user-experience, ui-design, design-patterns, web-design, modal-design
