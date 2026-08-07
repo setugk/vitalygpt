@@ -558,3 +558,12 @@ PDF: https://lnkd.in/dZY2YA8j Often actions have unintended consequences. But th
 
 **Source:** [LinkedIn](https://www.linkedin.com/posts/vitalyfriedman_modal-vs-page-ux-decision-tree-https-share-7490662033923891201-BJyy/?utm_source=share&utm_medium=member_ios&rcm=ACoAAAedtLEBej9lid5LHaT1t_HU5bsQdM5QCJ0) · Vitaly Friedman · 2026-08-05
 **Tags:** user-experience, ui-design, design-patterns, web-design, modal-design
+
+---
+
+## Color Accessibility Symbols System, a free set of SVG symbols and a typeface to help people identify color when the color alone isn’t…
+
+🖌️ Color Accessibility Symbols System (https://colorsym.com), a free set of SVG symbols and a typeface to help people identify color when the color alone isn’t enough — with 3 primary base shapes that can be combined to tell differences apart, e.g. for digital UIs, product packaging, wayfinding, in board games, subway lines etc. Open source, and free to use in commercial and personal projects. It’s a well-known best practice that we should never rely on colors alone to communicate meaning to users. I do like the idea of logically combined colors that inherit parents’ symbols, but I’d love to be sure that users can actually decode parents from the children symbols as well. However, most of the time you will not need all colors and all based shapes — but you will need a handful of them, and we do need to make sure everyone can tell them apart. Wonderful and inspiring work by Christopher Eastridge and Luis Francisco Baroni Coutinho, kindly discovered and shared by Stéphanie Walter. 👏🏼👏🏽👏🏾 | 27 comments on LinkedIn
+
+**Source:** [LinkedIn](https://www.linkedin.com/posts/vitalyfriedman_color-accessibility-symbols-system-https-share-7481423174241259520-GSIr/?utm_source=share&utm_medium=member_ios&rcm=ACoAAAedtLEBej9lid5LHaT1t_HU5bsQdM5QCJ0) · Vitaly Friedman · 2026-07-10
+**Tags:** Accessibility, ui-design, svg, Design system, color-accessibility

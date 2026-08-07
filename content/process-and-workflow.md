@@ -143,3 +143,31 @@ https://lnkd.in/d_g3A_n3 --- It’s difficult to understand just how much impact
 
 **Source:** [LinkedIn](https://www.linkedin.com/posts/vitalyfriedman_ux-designsystems-share-7489933070704336896-BtrA/?utm_source=share&utm_medium=member_ios&rcm=ACoAAAedtLEBej9lid5LHaT1t_HU5bsQdM5QCJ0) · Vitaly Friedman · 2026-08-03
 **Tags:** design-systems, design-tokens, Figma, ux-design
+
+---
+
+## The State of AI in Design Systems, an incredible field study with 150+ techniques across 20 design systems, specifically focused on how…
+
+The State of AI in Design Systems (https://lnkd.in/g2tZgRVm), an incredible field study with 150+ techniques across 20 design systems, specifically focused on how design systems implement and distribute AI tooling — MCP server, LLMs.txt, skills, AI docs etc. — for design system contribution and consumption. Wonderful work by Kaelig Deloumeau-Prigent. Useful takeaways: 1. More design system teams now ship a machine-readable DS.
+2. The differences are in how they slice, gate and maintain context.
+3. Some design systems come with evals, token, time and turn counts.
+4. Some run a nightly benchmark vs. baseline to minimize regression.
+5. AI artifacts are becoming measured, versioned software.
+6. Context files are compiled and regenerated, on every releases.
+7. Validation loops make agents run linters and audits until they pass.
+8. Publishing llms.txt has become a default for enterprise AI-ready DS.
+9. Skill architecture: SKILL.md router + lazy-loaded reference files.
+10. Many systems focus on gated walled gardens to reduce drifting.
+11. Most effective negative rules call out the exact failure in their docs.
+12. Ant Design’s allow-list stop models hallucinating Box/Stack/Container.
+13. Carbon enumerate its components; anything else is provably invented.
+14. Polaris blocks AI crawlers and routes them through Shopify’s toolkit. 15. Where the affordances live (repo, docs) predicts who maintains them.
+16. Top-level agent files are small, with retrieval used over persisting context.
+17. Keep deterministic checks — not LLM — in the path that blocks a merge. It’s remarkable just how sophisticated the design system AI tooling has become. It’s worth noting though that not every design system will require this level of architecture and maintenance. Most of the time, dedicated teams will be working on maintaining such systems and ensuring that AI drifting for prototyped and AI-generated flows actually works. All of this hard work is done with the goal to improve the quality of output with hard-working AI agents, automate maintenance but also keep the system running as it evolves with AI-produced work. If you are looking at an enterprise-level design system with the ambition to produce production-ready quality work, that might be an approach worth looking into. --- ✺ Useful resources: AI-Ready Design System Index, by Kiryl Zhukouski
+https://lnkd.in/gm4dmPij AI-Ready Design System Roadmap, by Ilya Greben
+https://lnkd.in/gPdxpd3r Case-Study: Building Design System Components With Agent Teams, by Kaelig Deloumeau-Prigent
+https://lnkd.in/gehgTWUb Case-Study: How To Make Your Design System AI-Ready, by Hardik Pandya
+https://lnkd.in/dtnpy7CM On the sidenote, I’d like to highly recommend to follow Kaelig Deloumeau-Prigent who is regularly posting useful insights, studies and insights all around design systems and AI. Kindly reminded and discovered via Christine Vallaure de la Paz. #ux #ai
+
+**Source:** [LinkedIn](https://www.linkedin.com/posts/vitalyfriedman_ux-ai-share-7491408139117064193-wkMp/?utm_source=share&utm_medium=member_ios&rcm=ACoAAAedtLEBej9lid5LHaT1t_HU5bsQdM5QCJ0) · Vitaly Friedman · 2026-08-07
+**Tags:** design-systems, ux, machine-learning, ai-in-design
