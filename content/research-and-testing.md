@@ -377,3 +377,40 @@ A classic. A very short book that entirely changed how I think about design deca
 
 **Source:** [LinkedIn](https://www.linkedin.com/posts/vitalyfriedman_four-levels-of-customer-understanding-share-7489577682733686784-X0zj/?utm_source=share&utm_medium=member_ios&rcm=ACoAAAedtLEBej9lid5LHaT1t_HU5bsQdM5QCJ0) · Vitaly Friedman · 2026-08-02
 **Tags:** user-experience, user-research, product-design, customer-behavior
+
+---
+
+## Useful Books For Designers Working On Complex Problems, with my personal book recommendations for designers working on complex products in…
+
+📚 Useful Books For Designers Working On Complex Problems (https://lnkd.in/dBrMnuKR), with my personal book recommendations for designers working on complex products in complex environments — and who want to make a positive and lasting difference. --- 🔹 1. My Personal Book Recommendations Chances are high that you are working on a challenging, complex product. And perhaps in a difficult and heavily restricted environment, too — a workplace with deep organizational hierarchy, domain complexity, entrenched culture, untamed legacy and conflicting priorities from opinionated stakeholders at every turn. How do you thrive and survive in such environments? A few weeks ago I stumbled upon a fantastic overview by Daniel Burka (https://lnkd.in/gAz6nyiT), with books for designers who are setting out to make a lasting difference. So I thought I’ll put together a few of my personal book recommendations as well. Let’s take a look. 1. How Big Things Get Done, by Prof. Bent Flyvbjerg, Dan Gardner
+2. Factfulness, by Hans Rosling
+3. The Phoenix Project, by Gene Kim, Kevin Behr ✓, George Spafford
+4. The Goal, by Eliyahu Goldratt
+5. Thinking in Systems, by Donella Meadows
+6. Algorithms to Live By, by Brian Christian, Tom Griffiths
+7. The Culture Map, by Erin Meyer
+8. Articulating Design Decisions, by Tom Greever
+9. Narrative Economics, by Robert Shiller
+10. Envisioning Information, by Edward Tufte
+11. The Great Mental Models, by Shane Parrish
+12. A Pattern Language, by Christopher Alexander
+13. Org Design for Design Orgs, by Peter Merholz, Kristin Skinner
+14. The Missing Billionaires, by Victor Haghani, James White
+15. Why Design Is Hard, by Scott Berkun
+16. The Laws of Simplicity, by John Maeda --- 🔸 Recently Released Books 1. Inviting Depth, by Brandon Berry, Thomas Williams
+2. Research Practice, by Gregg Bernstein
+3. Sentient Design, by Veronika Kindred, Josh Clark
+4. Building The Research Engine, by Julian Della Mattia
+5. Designed With Care, curated by Rachel Edwards
+6. Staff Product Designer, by Artiom Dashinsky
+7. Accessible UX Research, by Michele A. Williams, PhD
+8. Good Services, by Lou Downe
+9. The Solo, by Christine Vallaure
+10. The Staff Designer, by 🐱 Catt Small 👩🏾‍💻 Jump to full article: https://lnkd.in/dBrMnuKR --- Many of these creators provide an immense amount of free content as well. Please do support their workif you find their contributions valuable. What books did you find helpful? I’d love to hear your recommendations — leave a comment below! 💚 --- 🌻 My friendly UX courses: Complex UIs and Enterprise UX → https://lnkd.in/dxD2y3q9
+Modernizing Legacy UX → https://lnkd.in/dHbU4p6G
+Smart Design Patterns → https://smashed.by/smart
+Design Patterns For AI → https://smashed.by/ai-ux
+Measure UX & Design Impact → https://measure-ux.com | 20 comments on LinkedIn
+
+**Source:** [LinkedIn](https://lnkd.in/p/gcNhnDqg) · Vitaly Friedman · 2026-08-14
+**Tags:** book-recommendations, design, product-design, ux-design, design-reading
