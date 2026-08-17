@@ -137,3 +137,32 @@ Happy designing, everyone! 🎉🥳 🌻 My friendly UX courses: 🦕 How To Mod
 
 **Source:** [LinkedIn](https://www.linkedin.com/posts/vitalyfriedman_design-guidelines-for-toast-messages-ux-share-7480177104370978816-kj79/?utm_source=share&utm_medium=member_ios&rcm=ACoAAAedtLEBej9lid5LHaT1t_HU5bsQdM5QCJ0) · Vitaly Friedman · 2026-07-07
 **Tags:** user-experience, design-guidelines, ui-design, notifications
+
+---
+
+## Effective Ways to Pair Typefaces, with a few helpful pointers and guides on combining typefaces that I keep very close in my bookmarks ↓…
+
+🔖 Effective Ways to Pair Typefaces, with a few helpful pointers and guides on combining typefaces that I keep very close in my bookmarks ↓ Good typeface pairing is mostly about enough contrast — differences between styles, weights, sizes that establish visual hierarchy and guide user’s attention. We distinguish between 3 types of text: 1. Display text → for large sizes (short headings, 20px+).
+Display text is for large headings, such as title, headlines, pull quotes. That’s an opportunity to show personality and brand expression, and so typefaces here are often expressive, quirky, with distinct geometric shapes, intended for short text. 2. Body text → for regular sizes (main part of text, 16px)
+For body text, we focus on legibility — always with understated fonts. It’s the main part of text that is intended for reading. This isn’t a place to experiment, but to make it easier to scan and read through the content. 3. Functional text → for small sizes (UI elements, 11–14px).
+Functional text supports the design — it’s UI elements, navigation, labels, data table headings, captions on charts, image captions. Here we always choose a typeface with a consistent stroke and highly distinct characters. Here are 15 simple guidelines I follow: 1. Typefaces should never be similar: either the same or very different.
+2. We never mix expressive typefaces → 1 expressive + 1–2 neutral(s).
+3. We start by finding a base, then extend with a contrasting type.
+4. The base can either be body text heavily optimized for legibility...
+5. ...or it can be display text that must match brand’s personality.
+6. Fonts designed for long text don’t have expressive features.
+7. We never use >2–3 fonts, and only as few styles as needed.
+8. We set headlines in a bolder weight than the copy for sectioning.
+9. Headlines, displayed at large sizes, is a good place for expression.
+10. There, complex geometric shapes and fine details might work well.
+11. Contrast not only typefaces, but the font weights we set, too.
+12. Functional text is best set in a sans-serif typeface for legibility. 13. Charts often work best with sans-serif + lining/tabular numbers.
+14. Font size, line height and line length are always tightly connected
+15. Once you adjust one, you will have to adjust the others as well. And: start with the most accessible and legible typeface for body copy first (https://lnkd.in/p/dZTreRcQ), then build upon it. Once you have a good reading experience, you can afford being expressive with your headings — but the other way around usually will not work. --- ✤ Font Pairing Examples & Guides ⌾ Fonts in Use: https://lnkd.in/dn9Zbxv3
+⌾ Font Pair: https://fontpair.co/all
+⌾ Google Fonts Pairings (showcase): https://lnkd.in/ekNXpxqC
+⌾ Font Pairing Guide: https://lnkd.in/eHJ7z3dd
+⌾ Combining Typefaces, by Tim Brown: https://lnkd.in/g-Tgbzqt More resources in comments ↓
+
+**Source:** [LinkedIn](https://lnkd.in/p/g6uKs3H5) · Vitaly Friedman · 2026-08-16
+**Tags:** Typography, design, web-design, font-pairing
