@@ -234,3 +234,25 @@ https://lnkd.in/dRPB4FPR I can only wholeheartedly recommend to follow Jeremy Co
 
 **Source:** [LinkedIn](https://www.linkedin.com/posts/vitalyfriedman_the-109-rules-of-storytelling-free-share-7453340997452767232-quma/?utm_source=share&utm_medium=member_ios&rcm=ACoAAAedtLEBej9lid5LHaT1t_HU5bsQdM5QCJ0) · Vitaly Friedman · 2026-07-29
 **Tags:** public-speaking, Communication, Storytelling, presentation-skills
+
+---
+
+## First 30/60/90 Days Plan For Product Designers and UX Leads.
+
+🪴 First 30/60/90 Days Plan For Product Designers and UX Leads. With checklists, guides and Notion templates to get started in a new role — still relevant in AI world ↓ First 90 Days For Product Designers (+ Notion), by Arturo Ríos
+Article: https://lnkd.in/e4eYWfiT
+Notion template: https://lnkd.in/eE_-Eg53 90-Day Plan: Design Job Survival Guide (Google Doc checklist), by Niki Tisza
+https://lnkd.in/daHkRnqA Find Your Fit as a Product Designer in a New Product Team, by Carl Worricker
+https://lnkd.in/dyXgKNqN First 90 Days UX Research Roadmap, by Dhananjay Garg
+https://lnkd.in/eTKzPDwW First 90 days as a UX Researcher (+ Notion template), by Anna Lee A.
+https://lnkd.in/e9EwJ26A First 90 Days Plan as VP, Product Design, by Wade Shearer
+https://lnkd.in/dNWdcxJi First 30 Days For Design Leaders, by Rosie Dent-Erdoğan
+https://lnkd.in/dUWV8rkB 90-Day Plan For UX Leads, by Nicole Sharratt 🦄 🦄
+https://lnkd.in/gTKxuhe6 First 90 Days to Make Impact as a UX Researcher, by Snigdha Diehl
+https://lnkd.in/eTgmskZC First 90 Days as A Design Manager
+Remote: https://lnkd.in/e7vj889w
+On-site: https://lnkd.in/eMcuT9Pj --- When getting started, it’s easy to get carried away by milestones and checklists and first deliverables. The most effective thing to do early is to look for unwritten rules and bottlenecks that affect many people in your team. Things that shape the work and slow everybody down. Things that people love or complain about a lot. It’s also very easy to get lost in all the details and complexities. It might take years for you to get a full picture, and the most important strategy is to find the right people to ask the right questions — and then ask as many questions as you can. And: make the most out of one-on-ones with your manager. You must have a clear idea of what success after 30, 60 and 90 days means for your role, and what is expected from you.
+In the end, first 90 days are all about finding a place where you can add real value and finding people who you can ask, learn from and find your place with. ♻️ ↓
+
+**Source:** [LinkedIn](https://lnkd.in/p/g-kvMCcf) · Vitaly Friedman · 2026-08-21
+**Tags:** onboarding, career-development, design-leadership, product-design, ux-design
