@@ -414,3 +414,33 @@ Measure UX & Design Impact → https://measure-ux.com | 20 comments on LinkedIn
 
 **Source:** [LinkedIn](https://lnkd.in/p/gcNhnDqg) · Vitaly Friedman · 2026-08-14
 **Tags:** book-recommendations, design, product-design, ux-design, design-reading
+
+---
+
+## Accordion Icons: Which Signifiers Work Best?, a study on which icons are most effective in indicating that they will open an accordion.
+
+▼ ▶ Accordion Icons: Which Signifiers Work Best? (https://lnkd.in/d8fCpTz9), a study on which icons are most effective in indicating that they will open an accordion. Why split menus are harmful, why its’s better to not have icons and text labels link to different actions — and why caret is the safest icon choice. By Page Laubheimer, Raluca Budiu from NN/g. 🔸 1. No Icon = Opening The Page The findings aren’t very surprising: without any icon in use users expect that tapping on the menu item would take them directly to a new page. Custom icons don’t signal that they’ll open an accordion. People tend to tap fairly equally on the icon and on the label for most icons. Many designs tend to overcomplicate things by adding arrows and carets pointing everywhere, depending on the state of accordion. But typically we don’t need to use an arrow to indicate a link to the category. If it’s a link, the easiest and most effective way is to simply underline it — without any arrow, care, or other signifier (see attached image). --- 🔹 2. Confusing Behavior With Arrows ▶ and Split Buttons Using a right-facing arrow icon ▶ (as opposed to a plus ➕ or caret › ) isn’t significantly associated with an expectation of going directly to a new page. And having the same icon pointing down ▼ doesn’t necessarily imply that an accordion is going to open on tap/click. It’s a good idea avoid split buttons for accordions — where the text label links directly to a page, but the icon opens the accordion. Instead, tapping on a main category should expose the menu; and to access the category page, add a link to it inside the menu. --- 🔺 3. Plus +/- and Arrows ↓/↑ Are Understood, But Can Be Misunderstood For accordions, we typically use +/- or arrows ↓/↑ to signal expanded and collapsed states, and typically it works well. However, both are very overloaded. Plus + can mean anything from saving for later to adding to cart to zooming in, and can be particularly confusing for multi-level navigation, with many levels open at the same time. Arrows ↓/↑ can mean scrolling or sliding or find next match, but also a jump to a particular portion of a page (in-page navigation). Both plus and arrows are well-understood, but depending on the design can be confusing — mostly because they are overloaded with meanings. The safe choice is to use the caret pointing down ▼ by default, and change it to caret pointing up ^ or caret pointing sideways ▶ on interaction. And: avoid any further arrows to indicate states. It’s not necessary, and typically more confusing than not. [Resources in the comments ↓] #ux #design
+
+**Source:** [LinkedIn](https://lnkd.in/p/gDq9fDum) · Vitaly Friedman · 2026-08-26
+**Tags:** user-research, ui-patterns, ux-design, web-design, accordion-menu
+
+---
+
+## UX Techniques For Higher Conversion Rates.
+
+🎯 UX Techniques For Higher Conversion Rates. How to improve landing pages and how to communicate the value of a product more effectively (discovered via Stuti Kathuria) ↓ 🤔 Most people have your competitors open in the next tab.
+✅ We must convey key details and value within 30s or less.
+✅ Highest impact lives in 3 areas: product name, pricing, CTA. ✅ Write the headline from the 1st time visitor perspective.
+✅ Add badges above the name: tags, experience, profile. 🤔 People relate best to items that are used by people like them.
+✅ Show avg. score + number of reviews, e.g. ⭐ 4.7 (477 reviews).
+✅ Highlight choice, e.g. “87% of small businesses choose this option”.
+✅ Highlight impact, e.g. “79% of people saw improvements in 7 days”.
+✅ Add a short review below CTA (photo, quote, “verified” badge). 🤔 People don’t buy when they have doubts or concerns.
+✅ Show final price, shipping costs, taxes and fees right away.
+✅ Show the delivery date, payment methods and return policy.
+✅ Show real photos from real customers, even in poor quality.
+✅ Visualize sizes: “medium” or “travel pack” is better than 8oz. 🚫 Avoid generic CTAs: “Shop Now!” → “Shop All Courses”.
+🚫 Don’t focus only on features: explain how the product works. The key attribute of every product page is its clarity. Key details must come across quickly, and they must be convincing enough to invite exploration. Typically this require a well-tested section around product name, compelling product visuals in action (not still product mock-ups), and reassuring CTA area. And that requires testing. A good idea is to ask customers to read the product name alone and explain what they think you’re selling. Ask what adjectives they’d use to describe it. What’s the total cost of shipping the product to their country? When they’ll receive it? How long they can return the product? First, study why customers leave key pages in the first place. Then define the tasks that the page must excel at to address all doubts and concerns. Come up with 10–12 questions for customers to answer after 30s on the page. And then measure success rates for giving accurate answers. And: the best way to stand out among competition is through humility. Make it easy to cancel a subscription. Support simple returns. Explain honest and fair pricing. Share a story about how the product is made, what you stand for, and why you so deeply care. In today’s world, that’s a missing ingredient that could bring way more revenue than any A/B optimization would. And a huge thank you to Stuti Kathuria (not affiliated at all) for putting together a huge collection of techniques and strategies to improve conversion with helpful and honest design. 👏🏼👏🏽👏🏾 #ux #design
+
+**Source:** [LinkedIn](https://lnkd.in/p/gFA3Eq8s) · Vitaly Friedman · 2026-08-24
+**Tags:** product-design, ux-design, conversion-optimization, landing-pages
