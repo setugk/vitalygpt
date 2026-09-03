@@ -444,3 +444,33 @@ Measure UX & Design Impact → https://measure-ux.com | 20 comments on LinkedIn
 
 **Source:** [LinkedIn](https://lnkd.in/p/gFA3Eq8s) · Vitaly Friedman · 2026-08-24
 **Tags:** product-design, ux-design, conversion-optimization, landing-pages
+
+---
+
+## Bookmarks: Useful Glossaries For Designers (PDFs), with reliable “cheat sheets”, vocabularies, guides and references for key terms,…
+
+🗂️ Bookmarks: Useful Glossaries For Designers (PDFs), with reliable “cheat sheets”, vocabularies, guides and references for key terms, concepts, deliverables related to UX and research — in one single place ↓ Data Visualization, by Financial Times
+https://lnkd.in/ezu2w8Vr Design Methods, by UniversalDesign
+https://lnkd.in/eZnfENvc Cognitive Biases Glossary, by Jon Yablonski
+https://lnkd.in/eXVaxUHh The Atlas of AI Interaction Design, by Brandon Harwood
+https://ai-interaction.com UX Research Methods, by Raluca Budiu, NN/g
+Article: https://lnkd.in/eGNtg9Ye
+PDF: https://lnkd.in/dFQJMDC7 UX Quantitative Research, by Raluca Budiu, NN/g
+Article: https://lnkd.in/eTxFKeEj
+PDF: https://lnkd.in/dJvTMcyt UX Deliverables, via Huei-Hsin Wang, NN/g
+https://lnkd.in/dH4sBqDf Service Design Glossary + Methods (+ PDF)
+Glossary: https://lnkd.in/dEFj6e5S
+Methods: https://lnkd.in/eJeAmvTJ Accessibility and Assistive Technology Glossary, by Fable
+https://lnkd.in/exwegbGk Design Dictionary, by Figma
+https://lnkd.in/eVY4H5Bw UX Psychology, by Peter Ramsey
+https://lnkd.in/ek9Pi-CG UX Lexicon, by Michele Ronsen
+https://lnkd.in/eWKJ5eff UX Glossaries, by UXtweak, Uxcel
+↳ https://lnkd.in/eAh_VwDu
+↳ https://lnkd.in/ec5_gNty UX Glossary + FAQ, by Christopher Nguyen
+https://uxplaybook.org/faq UX Research Practice, by Gregg Bernstein
+https://lnkd.in/eBahY3_n Typography and Fonts Glossary, by Elliot Jay Stocks
+https://lnkd.in/eH-MSykU UX Writing and Content Design, by Iain Broome
+https://lnkd.in/edznpHBb Sometimes we know what we need to look up, but sometimes it’s helpful to know what we don’t know and look it up using some of the trustworthy references above. If you know of any other resources that helped you in the past, or that you use frequently, share them in the comments below for everyone to benefit from it! And a HUGE warm thank you to everyone who’s been putting together all these resources, trying to make them as practical, reliable and trustworthy at times when there is a lot of inaccuracy and poor content out there. 👏🏼👏🏽👏🏾 #ux #design
+
+**Source:** [LinkedIn](https://lnkd.in/p/gcb4twCv) · Vitaly Friedman · 2026-09-03
+**Tags:** design-resources, ux-design, design-reference, glossary
