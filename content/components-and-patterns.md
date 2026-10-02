@@ -577,3 +577,24 @@ High-Res PDF/PNG: https://lnkd.in/da6vqsRP The question about the “right” st
 
 **Source:** [LinkedIn](https://www.linkedin.com/posts/vitalyfriedman_ux-design-share-7436302936647041025-7mS5/?utm_source=share&utm_medium=member_ios&rcm=ACoAAAedtLEBej9lid5LHaT1t_HU5bsQdM5QCJ0) · Vitaly Friedman · 2026-07-12
 **Tags:** Accessibility, design-guidelines, ui-components, ux-design
+
+---
+
+## Design Guidelines For Better Notifications UX, with practical techniques on how to make notifications more useful and less annoying — with…
+
+🔕 Design Guidelines For Better Notifications UX (https://lnkd.in/eAUuMVGw), with practical techniques on how to make notifications more useful and less annoying — with snooze mode, by exploring how and when they are triggered and measuring their use. Notifications Decision Tree (Slack):
+https://lnkd.in/eunw_VFX 🚫 High frequency of notifications is a very frequent complaint.
+✅ Not all notifications are equal: some are more useful than others.
+✅ Users value updates from close contacts, transactions, insights.
+🤔 Users ignore automated, irrelevant, promotional notifications.
+✅ Sending fewer messages can improve long-term product use. ✅ Let users choose notification modes (silent, regular, power).
+✅ Suggest switching from push notification to email digests.
+✅ Let users snooze, pause, mute if high volume is expected.
+✅ Track how often notifications are ignored and acted upon.
+🚫 Avoid disruption and notification fatigue by sending less. In many products, setting notification channels on mute is a default, rather than an exception. The reason for that is their high frequency which creates disruptions and eventually notifications fatigue, when any popping messages get dismissed instantly. But not every notification is equal. The level of attention users grant to notifications depends on their nature, or, more specifically, how and when they are triggered. People care more about new messages from close friends and relatives, bank transactions and any actionable and awaited confirmations. To design better notifications UX, we break down notification design across 3 levels of severity: high, medium, and low attention. And then, we define notification types by specific attributes on those levels — e.g. alerts, warnings, confirmations, errors, success messages, or status indicators. Most importantly, we scrutinize the decision tree to find the right timing to send the right types of notifications. The timing is really everything, so you might end up designing notification profiles — frequent users, infrequent users, one-week-experience users, one-month-experience users etc. In fact, Facebook has been experimenting with the notification frequency and learned that both user satisfaction and app usage improve by sending fewer notifications (link in the comments). And: whenever possible, allow your users to snooze and mute notifications *for a while*, and eventually you might even want to suggest a change of medium used to consume notifications. And when in doubt, postpone, rather than sending through. 🌳 UI Decision Trees → https://lnkd.in/eXr7nZdE
+🍣 Interface Design Patterns → https://lnkd.in/epY4RmXR
+🔮 How To Measure UX → https://measure-ux.com
+🎢 Upcoming UX workshops → https://lnkd.in/d9w_NgGC Happy designing, everyone! 🎉🥳
+
+**Source:** [LinkedIn](https://lnkd.in/p/gujbaAY3) · Vitaly Friedman · 2026-09-30
+**Tags:** user-experience, ux-best-practices, product-design, notification-design
