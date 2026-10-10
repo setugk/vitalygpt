@@ -598,3 +598,72 @@ https://lnkd.in/eunw_VFX 🚫 High frequency of notifications is a very frequen
 
 **Source:** [LinkedIn](https://lnkd.in/p/gujbaAY3) · Vitaly Friedman · 2026-09-30
 **Tags:** user-experience, ux-best-practices, product-design, notification-design
+
+---
+
+## UX Guidelines For...
+
+🪴 UX Guidelines For... Almost Everything! Design patterns and best practices, from dashboards and bulk import to data tables and filters — now updated, all in one single post ↓ ✤ Interface Design Patterns AI: https://lnkd.in/e7mA4Rq5
+AI Agents: https://lnkd.in/p/dimrmEi2
+AI Accessibility: https://lnkd.in/p/db-RynuB
+Accordion: https://lnkd.in/edbe3YMw
+Animation: https://lnkd.in/edujesBM
+Authentication: https://lnkd.in/eq_bb8BY
+Autocomplete: https://lnkd.in/eWHvhX89
+Back Button: https://lnkd.in/eJmyxrqH
+Badges vs. Chips: https://lnkd.in/dEhwEMy5
+Bulk import: https://lnkd.in/dfKQ6iTn
+Cancel: https://lnkd.in/eU8EZYXD
+Carousels: https://lnkd.in/ejxsRANp
+Charts: https://lnkd.in/dwhXj5xu
+Chat UIs: https://lnkd.in/dEQbz2PE
+Checkbox vs. Radios: https://lnkd.in/di-9-E5U
+Combobox vs. Multiselect: https://lnkd.in/dZ-mFD79
+Confirm vs. Undo: https://lnkd.in/e3r9YzEv
+Context Menus: https://lnkd.in/eu9p2Nce
+Dashboards: https://lnkd.in/eDWaJAeJ
+Data Grids: https://lnkd.in/e3UkthxP
+Data Viz: https://lnkd.in/eKZsW8-B
+Data Tables (Desktop): https://lnkd.in/ePWbJfXW
+Data Tables (Mobile): https://lnkd.in/eGfrEzDC
+Drag’n’drop: https://lnkd.in/ezdaNsqp
+Dropdowns: https://lnkd.in/dhmv-D6N
+Error Messages: https://lnkd.in/emprqntH
+FAQ: https://lnkd.in/dyxifbkQ
+Filters: https://lnkd.in/dbC5UcrJ
+Hidden vs. Disabled: https://lnkd.in/erYsA-PP
+Icon labels: https://lnkd.in/d4ws3A6D
+Infinite Scroll: https://lnkd.in/e2E_TwEK
+Legacy UX: https://lnkd.in/d8w-Znji
+Live validation: https://lnkd.in/e7erH-vF
+Loading: https://lnkd.in/ebFqUrRP
+Localization: https://lnkd.in/ezCD6MpJ
+Maps: https://lnkd.in/dFFtXuTi
+Modals: https://lnkd.in/ecXzreWc
+Multi-Lingual UX: https://lnkd.in/ekvCDMEC
+Navigation: https://lnkd.in/eikbBNzr
+Navigation (Top vs. Side): https://lnkd.in/dq_cZgGZ
+Notifications: https://lnkd.in/eCqxKHkY
+Onboarding: https://lnkd.in/eFZw3Mgz
+Offboarding: https://lnkd.in/eBRgB_hR
+Overlays: https://lnkd.in/d6EWWxSC
+Pagination: https://lnkd.in/e9tq-57r
+Personalization: https://lnkd.in/eZ2h7_92
+Placeholders: https://lnkd.in/eXCKUenb
+Pricing Pages: https://lnkd.in/ebZHm83j
+Progress Steps: https://lnkd.in/eAVwKtjM
+Reviews and Ratings: https://lnkd.in/etciENfd
+Search: https://lnkd.in/e2v7E2uq
+Skip links: https://lnkd.in/dXst_cyW
+Sliders: https://lnkd.in/eQMEgSPN
+Sorting: https://lnkd.in/eT_RWrmT
+Sticky menus: https://lnkd.in/eeuaQ-qf
+Table of Contents: https://lnkd.in/eSgeFh_3
+Toasts: https://lnkd.in/eiJngitb
+Transitions: https://lnkd.in/eHwHSQDG
+Trust: https://lnkd.in/p/dGqXeJ4s
+Voice and Tone: https://lnkd.in/e6r4cC8Y
+Voice UX: https://lnkd.in/p/dZY389q3 --- I’ve been asked for a place with all UX guidelines published over the years. That’s that place! I’m sure LinkedIn will hate it, but I hope you’ll find it helpful — please spread the word. ♻️🙏🏽 *HUGE* thanks to incredible UX community for publishing insights for everyone to learn from. Without it, I couldn’t publish even a small portion of these posts. Thanks for being kind and generous — now and ever. ❤️ #ux #design
+
+**Source:** [LinkedIn](https://lnkd.in/p/gtBdYAYX) · Vitaly Friedman · 2026-10-09
+**Tags:** user-experience, interface-design, design-patterns, ux-design, web-design
