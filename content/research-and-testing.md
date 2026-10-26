@@ -474,3 +474,17 @@ https://lnkd.in/edznpHBb Sometimes we know what we need to look up, but sometime
 
 **Source:** [LinkedIn](https://lnkd.in/p/gcb4twCv) · Vitaly Friedman · 2026-09-03
 **Tags:** design-resources, ux-design, design-reference, glossary
+
+---
+
+## How To Measure The Impact Of Product Features, a practical reminder by Adrian Raudaschl on how to evaluate features and answer the crucial…
+
+🧭 How To Measure The Impact Of Product Features (https://lnkd.in/dMtn49WE), a practical reminder by Adrian Raudaschl on how to evaluate features and answer the crucial question, “What does a good outcome for my feature look like?”. Adrian suggests to measure 4 key metrics to measure which features are performing well, and which aren’t: 👩🏻‍🦱 Feature target audience (%)
+We quantify the target audience by exploring what percentage of all product’s users have this specific problem that a feature aims to solve. We can approximate the target audience by studying existing or similar features that try to solve similar problems. 🗂 Feature adoption (%)
+We track how many users actually engage successfully with a feature over a specific time period. High feature adoption suggests that the problem was severe and impactful. Low adoption suggests the problem has simple workarounds. 🗃️ Feature retention (%)
+We study how many users who engaged with the feature actually returned to it and keep re-using it in their sessions. Usually it’s a strong signal for meaningful impact. However, high retention alone doesn’t say how successful people are in task completion. If a feature has >50% retention across users, we can be quite confident you have a feature of high strategic importance. A 25–35% retention rate is likely of medium strategic significance, and retention of 10 -20% is of low strategic importance. ❤️ Satisfaction rate (CES)
+We run research to understand how easy it was for users to solve their problem after they used our feature. We could use a Customer-Effort-Score survey, and ask only retained users to understand if there are any hidden problems with retention. 🎯 Bonus: Task Completion (%)
+Personally, I would always additionally measure task completion rates for most critical tasks and flows that users have to perform. We would identify 10–12 tasks, and track how users actually complete them — along with accuracy and completion times. One thing that’s worth emphasizing — as Adrian points out — is that low adoption doesn’t necessarily mean failure. It might be that a feature wasn’t surfaced well enough in user journeys or that we over-scoped the target population. And once we start measuring, we can track and map overperforming features, project feature, core features and liability features across 4 quadrants in a 2×2 matrix. And that could be a great conversation starter to discuss where the product UX should move next. A great framework to keep in mind to prioritize and track performance of features, and evolve product over time. Thanks for putting it together, Adrian Raudaschl (and if you are interested in metrics, I highly recommend you to follow Adrian for practical and useful guides all around just that)! 👏🏼👏🏽👏🏾 #ux #design | 11 comments on LinkedIn
+
+**Source:** [LinkedIn](https://lnkd.in/p/gva9_qTS) · Vitaly Friedman · 2026-10-23
+**Tags:** product-management, ux-design, product-metrics, feature-evaluation
