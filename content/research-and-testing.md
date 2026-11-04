@@ -488,3 +488,29 @@ Personally, I would always additionally measure task completion rates for most c
 
 **Source:** [LinkedIn](https://lnkd.in/p/gva9_qTS) · Vitaly Friedman · 2026-10-23
 **Tags:** product-management, ux-design, product-metrics, feature-evaluation
+
+---
+
+## The Strategic Product Designer (Notion hub), a curated overview of books, articles, courses and resources to move more towards UX strategy…
+
+🧭 The Strategic Product Designer (Notion hub) (https://lnkd.in/eCf_t2d9), a curated overview of books, articles, courses and resources to move more towards UX strategy and make sense of business, strategy tools, product knowledge, growth and experimentation — plus useful newsletters as well. Neatly put together by Daniel Andor. As designers, we are very, very good in designing pixels on the screens. But for good pixels to emerge, we need to be strategic about the decisions we are making. And one way to do that is to measure the outcome of the UX work we are doing. I’ve also put together a friendly video course on How To Measure UX and Design Impact (https://measure-ux.com), and there is actually a new live UX training coming up this month — on how to establish UX metrics, track UX impact and visualize your incredible impact on business. ~~~ ✤ Useful resources: – Product Playbooks: https://lnkd.in/e2SJVWDb
+– Little Book of Strategy: https://lnkd.in/eki2ctpH
+– Product Strategy Link Bank: https://lnkd.in/d36EcB5w
+– How To Measure UX and Design Impact: https://measure-ux.com ~~~ ✤ Kind people to follow on strategy: – Leah Tharin on product and product growth in B2B
+– Elena Verna on product growth, marketing, product
+– 🐱 Catt Small 👩🏾‍💻 on being a strategic product design lead
+– Ryan Rumsey on measuring impact on business
+– Alex M H Smith on how to think more strategically – Ruby Pryor on showing the impact of UX research
+– Nikki Anderson for strategic work on UX research
+– Caitlin Sullivan on strategic AI customer research
+– Baiba Matisone on deep dives into product strategy
+– Paweł Huryn on product management strategy – 👨🏻‍💻 Andy Budd on scaling teams and UX maturity
+– Donnie D’Amato BFA., MA. on strategic design systems work
+– Debbie Levitt, MBA CPIC ACC with real insights into research, strategy
+– Joe Natoli for honest, real strategic advice and coaching
+– Artiom Dashinsky for strategic progression in UX roles – John Cutler with strategic insights as head of product
+– David Bland on business strategy and org design
+– Tom Scott with real strategic advice for product designers Happy strategizing and designing, everyone! 🎉🥳 #ux #strategy | 12 comments on LinkedIn
+
+**Source:** [LinkedIn](https://lnkd.in/p/gVH3wqDu) · Vitaly Friedman · 2026-11-04
+**Tags:** product-strategy, ux-design, design-measurement
