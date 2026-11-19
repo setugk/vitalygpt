@@ -680,3 +680,30 @@ Agent works autonomously, (hopefully!) within boundaries agreed, and reports aft
 
 **Source:** [LinkedIn](https://lnkd.in/p/gzVJ7jTj) · Vitaly Friedman · 2026-11-16
 **Tags:** user-experience, human-ai-interaction, design-patterns, ai-design, agentic-systems
+
+---
+
+## Onboarding UX Guides And Decision Trees.
+
+🎢 Onboarding UX Guides And Decision Trees. Practical techniques for better onboarding UX, design patterns, kits and Figma templates — on mobile and desktop ↓ 🚫 Users often skip tutorials/walkthroughs entirely.
+🚫 Never block the UI with full-page onboarding modals.
+🚫 Avoid long multi-step tutorials with 5+ steps.
+✅ Ask customers what goals they are trying to achieve.
+✅ Allow users to hide walkthroughs and restore them later. ✅ Focus on bringing users to first success moments fast.
+✅ Structure your onboarding suggestions in bite-sized chunks.
+✅ Explain features when users slow down or make mistakes.
+✅ Show features when users lose time with repetitive tasks.
+✅ Prevent failure with an early warning system for new users. ✅ Collapsible checklists work well for onboarding.
+✅ Personalized onboarding works even better.
+✅ Design sets of filters, templates and empty states.
+✅ Show starter kits based on user’s profile and interests.
+✅ Consider voice onboarding on mobile for settings/prefs. We often think of onboarding as a series of tutorial screens. But it’s helpful to think about it as an onboarding experience — onboarding preferences, settings, goals, motivations and data, instead of familiarizing the user with whatever a product can actually do. Good onboarding shouldn’t be generic. It has to be relevant, and bring users to their first success. And it can be very impactful when it’s contextual, too: when we bring up hints when users slow down or make mistakes or run repetitive tasks again and again. On mobile, voice onboarding where a user can answer questions by voice, can be very powerful to get a more detailed context from the user. We still need a fallback to regular radios/buttons as not everybody is comfortable speaking in public (or privately) on their phone (see attached image, Jules Forrest). And: test the discoverability of your features continuously. If a feature is obvious, you might not need to explain it at all. And if it isn’t, perhaps onboarding won’t solve this problem either. ✤ Useful resources How to Choose Onboarding Methods and Components, by NewsKit 👍
+Methods: https://lnkd.in/eWn5FPWA
+Decision Tree: https://lnkd.in/e8TmMDFf
+Design Patterns: https://lnkd.in/ed7HjzkW Designing For First 30 Seconds in AI Product Onboarding, by Wojciech Wasilewski
+https://lnkd.in/dN6CwBwC Writing The Onboarding Experience, by Nick DiLallo
+https://lnkd.in/dVYg6r6z Onboarding Best Practices, by Taras Bakusevych
+https://lnkd.in/eRwr2tEc #ux #design | 11 comments on LinkedIn
+
+**Source:** [LinkedIn](https://lnkd.in/p/gqQMipDB) · Vitaly Friedman · 2026-11-19
+**Tags:** onboarding, user-experience, design-patterns, ux-design
